@@ -1,0 +1,486 @@
+building_id,building_name,Building_Address,lat,lon,submarket,asset_class,service_type,owner_name,leasing_company,avail_sf,direct_rent,clear_effective_rent,building_posture_score,clear_pressure,warhead_conviction_band,absorption_state,focus_signal,building_note,industry_key,active_flag
+1,1 DuPont Cir NW,1 DuPont Cir NW,38.908887,-77.044474,CBD,A,Office,American Council on Education,Lincoln Property Company,414956.0,46.742,14655.2546743996,72.0,11.099107093042,"⧗ Qage Chronometric Operating System Temporal Verdict (not comps, predictions or recommendations): Direct Rent = Owner Listed Ask // Avg. Weighted Rent is Market Baseline [Classical/Linear Assumptions], ⧖ QAGE ChronOS is Today’s Time-Clearing Rate ΦΔ +  Time Weapon Quantified Vacancy Velocity + Absorption Compression versus the Subject Space; Instrument Updates Daily. PHASE: ⨕ DECAY LATE → TRIAGE: prioritize occupancy/velocity; concessions are time-priced tools - still capped. | ⨋ OWNER GOVERNOR: 85% concession cap.⧖ QAGE - ChronOS TENANT WEAPONIZED CHRONOMETER READ: leverage normalized building set as the hedge - clear to ChronOS read TODAY or RELOCATE |  ⧖Daily time-clearing compression reflex: we shortlist like a broker, then quantify ΦΔ + Tweapon to collapse negotiation against the best alternative. Start FR 7 mo / TI $102/SF; FLOOR FR 5 mo / TI $72/SF (owner-governed). If they don’t clear to QAGE today, we move—time is the currency.",NEG,WATCH,,Nonprofit,1
+2,1 Inventa Pl,1 Inventa Pl,38.9955887,-77.0283661,Silver Spring,A,Office,"Cerberus Capital Management, L.P.",JLL,,30.5936,14655.2546743996,36.0,2.82722913977018,,NEG,OPPORTUNITY,,Nonprofit,1
+3,1 M St SE,1 M St SE,38.8762134,-77.0085332,Capitol Riverfront,A,Office,National Association of Broadcasters,CBRE,,62.0,14655.2546743996,72.0,15.2046624579825,,NEG,PRIORITY,,Nonprofit,1
+4,1 Massachusetts Ave NW,1 Massachusetts Ave NW,38.898238,-77.009478,NoMa,B,Office,National Guard Association of the United States,Donohoe,,49.7922,14655.2546743996,72.0,11.9189183263216,,NEG,WATCH,,Nonprofit,1
+5,1 Thomas Cir NW,1 Thomas Cir NW,38.905365,-77.0326911,East End,A,Office,Bayerische Ärzteversorgung,JLL,,51.0471,14655.2546743996,64.0,10.6840286682472,,NEG,WATCH,,Nonprofit,1
+6,10 G St NE,10 G St NE,38.8991586,-77.0080025,NoMa,A,Office,American Psychological Association,Cushman & Wakefield,,44.1649,14655.2546743996,56.0,10.1565216117122,,NEG,WATCH,,Nonprofit,1
+7,100 M St SE,100 M St SE,38.8768939,-77.0053917,Capitol Riverfront,A,Office,Onward Investors,Transwestern Real Estate Services,,55.6365,14655.2546743996,56.0,13.1080205137539,,NEG,WATCH,,Nonprofit,1
+8,1000 Maine Ave SW,1000 Maine Ave SW,38.8808482,-77.0266505,Southwest,A,Office,PSP Investments,CBRE,,67.5893,14655.2546743996,72.0,16.5753627785696,,NEG,PRIORITY,,Nonprofit,1
+9,1001 Connecticut Ave NW,1001 Connecticut Ave NW,38.9029697,-77.0390393,CBD,A,Office,Zuckerman Gravely,JLL,,44.897,14655.2546743996,64.0,10.2421301555843,,NEG,WATCH,,Nonprofit,1
+10,1001 G St NW,1001 G St NW,38.8988415,-77.0264596,East End,A,Office,Oxford Properties Group,Newmark,,27.922,14655.2546743996,28.0,5.84400384105654,,NEG,OPPORTUNITY,,Nonprofit,1
+11,1001 N 19th St,1001 N 19th St,38.8975467,-77.0693177,Rosslyn,B,Office,Venture Global,,,47.5,14655.2546743996,,,,NEG,STABLE,,Nonprofit,1
+12,1001 N Fairfax St,1001 N Fairfax St,38.814946,-77.039799,Old Town Alexandria,A,Office,Lxgt A Llc,,,31.4346,14655.2546743996,60.0,7.57134428398195,,NEG,STABLE,,Nonprofit,1
+13,1010 Wayne Ave,1010 Wayne Ave,38.9939825,-77.0276709,Silver Spring,A,Office,Acore Capital,Cushman & Wakefield,,34.9507,14655.2546743996,52.0,3.22987937004359,,NEG,STABLE,,Nonprofit,1
+14,1010 Wisconsin Ave NW,1010 Wisconsin Ave NW,38.9029958,-77.0633389,Georgetown,B,Office,"RB Properties, Inc.","RB Properties, Inc.",,36.7058,14655.2546743996,48.0,6.29463646566466,,NEG,STABLE,,Nonprofit,1
+15,1015 15th St NW,1015 15th St NW,38.9031181,-77.0341812,East End,A,Office,Aareal Bank AG,Cushman & Wakefield,,57.2375,14655.2546743996,64.0,11.9796637007547,,NEG,WATCH,,Nonprofit,1
+16,1015 18th St NW,1015 18th St NW,38.9031905,-77.0412982,CBD,A,Office,,Cushman & Wakefield,,47.4297,14655.2546743996,72.0,11.2624046829586,,NEG,WATCH,,Nonprofit,1
+17,1015 Half St SE,1015 Half St SE,38.877911,-77.007877,Capitol Riverfront,A,Office,Hines,Cushman & Wakefield,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+18,1020 19th St NW,1020 19th St NW,38.90304,-77.043843,CBD,B,Office,Zuckerman Gravely,JLL,,44.8247,14655.2546743996,72.0,10.6438352170099,,NEG,WATCH,,Nonprofit,1
+19,1025 Connecticut Ave NW,1025 Connecticut Ave NW,38.9033312,-77.0392549,CBD,A,Office,"Blake Real Estate, Inc.","Blake Real Estate, Inc.",,41.6797,14655.2546743996,72.0,9.89704021877245,,NEG,WATCH,,Nonprofit,1
+20,1025 Thomas Jefferson St NW,1025 Thomas Jefferson St NW,38.9031103,-77.0595984,Georgetown,A,Office,ADAM Asset Management,JLL,,70.5461,14655.2546743996,72.0,12.0978715508292,,NEG,WATCH,,Nonprofit,1
+21,1025 Vermont Ave NW,1025 Vermont Ave NW,38.9032679,-77.0327828,East End,B,Office,Stars REI,JLL,,45.0,14655.2546743996,80.0,9.8035702804516,,NEG,WATCH,,Nonprofit,1
+22,1030 15th St NW,1030 15th St NW,38.9034415,-77.0349838,East End,A,Office,New York Life Insurance Company,Cushman & Wakefield,,54.0524,14655.2546743996,64.0,11.3130303423223,,NEG,WATCH,,Nonprofit,1
+23,1050 17th St NW,1050 17th St NW,38.9035033,-77.0387392,CBD,A,Office,Hines,CBRE,,64.957,14655.2546743996,72.0,15.4243442608944,,NEG,PRIORITY,,Nonprofit,1
+24,1050 1st St NE,1050 1st St NE,38.903307,-77.006387,NoMa,A,Office,Ocean West Capital Partners,JLL,,50.0,14655.2546743996,72.0,11.9686600776042,,NEG,WATCH,,Nonprofit,1
+25,1050 K St NW,1050 K St NW,38.9021602,-77.0266447,East End,A,Office,The Lenkin Company,CBRE,,50.4429,14655.2546743996,80.0,10.9893447844398,,NEG,WATCH,,Nonprofit,1
+26,1054-1066 31st St NW,1054-1066 31st St NW,38.904459,-77.061723,Georgetown,B,Office,"RB Properties, Inc.","RB Properties, Inc.",,37.7717,14655.2546743996,56.0,6.47742646094475,,NEG,STABLE,,Nonprofit,1
+27,1055 Thomas Jefferson St NW,1055 Thomas Jefferson St NW,38.9037765,-77.0596949,Georgetown,A,Office,JPMorgan Chase & Co.,Transwestern Real Estate Services,,53.4698,14655.2546743996,64.0,9.16947601991501,,NEG,WATCH,,Nonprofit,1
+28,1090 Vermont Ave NW,1090 Vermont Ave NW,38.9034173,-77.0337129,East End,A,Office,"TF Cornerstone, Inc.",JLL,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+29,1099 New York Ave NW,1099 New York Ave NW,38.9019176,-77.0266275,East End,A,Office,FarmViewVentures LLC,JLL,,64.0,14655.2546743996,80.0,13.9428555099756,,NEG,WATCH,,Nonprofit,1
+30,11 DuPont Cir NW,11 DuPont Cir NW,38.9101091,-77.042548,Dupont Circle,B,Office,Office Properties Income Trust,,,57.0,14655.2546743996,64.0,13.4292626114866,,NEG,WATCH,,Nonprofit,1
+31,1100 13th St NW,1100 13th St NW,38.9041664,-77.0299409,East End,A,Office,Prudential,Cushman & Wakefield,,49.1226,14655.2546743996,72.0,10.2812356952469,,NEG,WATCH,,Nonprofit,1
+32,1100 15th St NW,1100 15th St NW,38.9042876,-77.0350526,East End,A,Office,IGIS Asset Management Co. Ltd,Carr Properties,,78.0,14655.2546743996,64.0,16.3252023351626,,NEG,PRIORITY,,Nonprofit,1
+33,1100 15th St NW,1100 15th St NW,38.9043459,-77.0353891,East End,A,Office,Hana Financial Group,,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+34,1100 17th St NW,1100 17th St NW,38.9040173,-77.0387706,CBD,A,Office,SSR Real ESTATE LLC,,,34.0,14655.2546743996,44.0,7.75625153773894,,NEG,STABLE,,Nonprofit,1
+35,1100 1st St NE,1100 1st St NE,38.9040961,-77.0065523,NoMa,A,Office,Unizo Liquidation LLC,JLL,,54.9135,14655.2546743996,56.0,12.628357576373,,NEG,WATCH,,Nonprofit,1
+36,1100 Connecticut Ave NW,1100 Connecticut Ave NW,38.9041803,-77.0405679,CBD,B,Office,1100 Connecticut Avenue Associates,CBRE,,44.5686,14655.2546743996,56.0,10.1672138907315,,NEG,WATCH,,Nonprofit,1
+37,1100 G St NW,1100 G St NW,38.8980584,-77.027235,East End,B,Office,"Mori Trust Co., Ltd.",,,52.224,14655.2546743996,72.0,10.9303508557889,,NEG,WATCH,,Nonprofit,1
+38,1100 H St NW,1100 H St NW,38.8995549,-77.0272934,East End,A,Office,"RB Properties, Inc.","RB Properties, Inc.",,25.8988,14655.2546743996,36.0,5.42055320817835,,NEG,OPPORTUNITY,,Nonprofit,1
+39,1100 New Jersey Ave SE,1100 New Jersey Ave SE,38.8771584,-77.0037486,Capitol Riverfront,A,Office,OIVF III 1100 NJ LLC,Newmark,,51.2795,14655.2546743996,56.0,12.0815065278198,,NEG,WATCH,,Nonprofit,1
+40,1100 Wayne Ave,1100 Wayne Ave,38.9944825,-77.0285624,Silver Spring,A,Office,Acore Capital,Cushman & Wakefield,,34.5,14655.2546743996,52.0,3.18822908458211,,NEG,STABLE,,Nonprofit,1
+41,1101 14th St NW,1101 14th St NW,38.9039993,-77.0314969,East End,B,Office,Melrose Solomon Enterprises,Cambridge Property Group LLC,,49.351,14655.2546743996,72.0,10.3290392364438,,NEG,WATCH,,Nonprofit,1
+42,1101 15th St NW,1101 15th St NW,38.904333,-77.0342261,East End,A,Office,"TF Cornerstone, Inc.",JLL,,49.1012,14655.2546743996,80.0,10.6970458901002,,NEG,WATCH,,Nonprofit,1
+43,1101 16th St NW,1101 16th St NW,38.9040421,-77.0360744,CBD,A,Office,Akridge,JLL,,43.0,14655.2546743996,72.0,10.2105516452185,,NEG,WATCH,,Nonprofit,1
+44,1101 17th St NW,1101 17th St NW,38.9041489,-77.038067,CBD,B,Office,JBG SMITH Properties,JBG SMITH Properties,,50.5505,14655.2546743996,64.0,11.5318350987786,,NEG,WATCH,,Nonprofit,1
+45,1101 Connecticut Ave NW,1101 Connecticut Ave NW,38.9040348,-77.0396104,CBD,A,Office,Altus Realty,,,57.2893,14655.2546743996,72.0,13.6036129388004,,NEG,WATCH,,Nonprofit,1
+46,1101 K St NW,1101 K St NW,38.9028782,-77.0275579,East End,A,Office,UBS Realty Investors LLC,Avison Young,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+47,1101 Pennsylvania Ave NW,1101 Pennsylvania Ave NW,38.895379,-77.0273557,East End,A,Office,Norges Bank Investment Management,JLL,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+48,1101 Vermont Ave NW,1101 Vermont Ave NW,38.9041247,-77.0324492,East End,A,Office,"Zumot Real Estate Management, Inc.",,,44.8093,14655.2546743996,64.0,9.37847293585904,,NEG,WATCH,,Nonprofit,1
+49,1101 Wilson Blvd,1101 Wilson Blvd,38.8953247,-77.0697097,Rosslyn,A,Office,Beacon Capital Partners,JLL,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+50,1110 Vermont Ave NW,1110 Vermont Ave NW,38.904155,-77.033161,East End,A,Office,Epic,CBRE,,54.2494,14655.2546743996,64.0,11.3542619430919,,NEG,WATCH,,Nonprofit,1
+51,1111 19th St NW,1111 19th St NW,38.9045124,-77.0430205,CBD,A,Office,New York Life Insurance Company,"Stream Realty Partners, LP",,49.9278,14655.2546743996,56.0,11.3897816331153,,NEG,WATCH,,Nonprofit,1
+52,1111 N Capitol St NE,1111 N Capitol St NE,38.904151,-77.008484,NoMa,B,Office,National Public Radio,Cushman & Wakefield,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+53,1120 19th St NW,1120 19th St NW,38.9045607,-77.04386,CBD,B,Office,PSI,Cushman & Wakefield,,38.1735,14655.2546743996,72.0,9.06447658671508,,NEG,WATCH,,Nonprofit,1
+54,1120 20th St NW,1120 20th St NW,38.9046394,-77.0452589,CBD,A,Office,Korea Investment Corporation,Cushman & Wakefield,,50.419,14655.2546743996,56.0,11.5018366553311,,NEG,WATCH,,Nonprofit,1
+55,1120 G St NW,1120 G St NW,38.8980585,-77.0276641,East End,B,Office,UBS,JLL,,55.6546,14655.2546743996,64.0,11.6483667420839,,NEG,WATCH,,Nonprofit,1
+56,1129 20th St NW,1129 20th St NW,38.9045629,-77.0444462,CBD,A,Office,Principal,,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+57,1130 Connecticut Ave NW,1130 Connecticut Ave NW,38.9046375,-77.040963,CBD,A,Office,American Realty Advisors,JLL,,53.0793,14655.2546743996,56.0,12.1087177131502,,NEG,WATCH,,Nonprofit,1
+58,1133 15th St NW,1133 15th St NW,38.9047467,-77.0341627,East End,A,Office,"Divco West Services, LLC",JLL,,45.2218,14655.2546743996,64.0,9.46480814051611,,NEG,WATCH,,Nonprofit,1
+59,1133 21st St NW,1133 21st St NW,38.904456,-77.046346,CBD,B,Office,Korea Investment Corporation,Cushman & Wakefield,,53.0,14655.2546743996,72.0,12.5850985394554,,NEG,WATCH,,Nonprofit,1
+60,1133 Connecticut Ave NW,1133 Connecticut Ave NW,38.9049824,-77.0401556,CBD,A,Office,The Lenkin Company,CBRE,,56.8742,14655.2546743996,56.0,12.9744294472844,,NEG,WATCH,,Nonprofit,1
+61,1140 3rd St NE,1140 3rd St NE,38.9050229,-77.0028898,NoMa,A,Office,Douglas Development Corporation,JLL,,60.8174,14655.2546743996,56.0,13.986066706098,,NEG,WATCH,,Nonprofit,1
+62,1140 Connecticut Ave NW,1140 Connecticut Ave NW,38.9049424,-77.0412167,CBD,A,Office,"Brookfield Asset Management, Inc.","Stream Realty Partners, LP",,51.9975,14655.2546743996,56.0,11.8619320392229,,NEG,WATCH,,Nonprofit,1
+63,1145 17th St NW,1145 17th St NW,38.9051713,-77.038054,CBD,B,Office,National Geographic Society,,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+64,1145 19th St NW,1145 19th St NW,38.9051086,-77.0430159,CBD,A,Office,Diversified Healthcare Trust,"Gittleson Zuppas Commercial Realty, Inc.",,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+65,1150 18th St NW,1150 18th St NW,38.9045735,-77.0422052,CBD,A,Office,Rockrose Development Corp.,Avison Young,,56.9226,14655.2546743996,72.0,13.5165383041887,,NEG,WATCH,,Nonprofit,1
+66,1150 Connecticut Ave NW,1150 Connecticut Ave NW,38.905322,-77.04128,CBD,A,Office,"Blake Real Estate, Inc.","Blake Real Estate, Inc.",,46.9884,14655.2546743996,72.0,11.1576159285159,,NEG,WATCH,,Nonprofit,1
+67,1152 15th St NW,1152 15th St NW,38.904972,-77.0352665,East End,A,Office,Beacon Capital Partners,Cushman & Wakefield,,37.0,14655.2546743996,52.0,7.74400623591047,,NEG,STABLE,,Nonprofit,1
+68,1155 21st St NW,1155 21st St NW,38.904888,-77.046282,CBD,A,Office,Korea Investment Corporation,Cushman & Wakefield,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+69,1155 F St NW,1155 F St NW,38.897672,-77.0274992,East End,A,Office,Douglas Development Corporation,Cushman & Wakefield,,56.4601,14655.2546743996,64.0,11.8169558508143,,NEG,WATCH,,Nonprofit,1
+70,1156 15th St NW,1156 15th St NW,38.9053209,-77.0348182,East End,A,Office,"TF Cornerstone, Inc.",JLL,,50.4601,14655.2546743996,64.0,10.5611710558018,,NEG,WATCH,,Nonprofit,1
+71,1199 N Fairfax St,1199 N Fairfax St,38.8165876,-77.0396881,Old Town Alexandria,B,Office,Whitaker Investment Corporation,Avison Young,,33.4918,14655.2546743996,52.0,7.74989400494649,,NEG,STABLE,,Nonprofit,1
+72,1200 19th St NW,1200 19th St NW,38.906026,-77.043843,CBD,A,Office,FosterLane Management Corporation,,,86.0,14655.2546743996,56.0,19.618753889575,,NEG,PRIORITY,,Nonprofit,1
+73,1200 1st St NE,1200 1st St NE,38.9060567,-77.0062515,NoMa,A,Office,"Easterly Government Properties, Inc.",Cushman & Wakefield,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+74,1200 G St NW,1200 G St NW,38.8980653,-77.0284972,East End,A,Office,Landow & Company,JLL,,35.6391,14655.2546743996,68.0,7.76423159071203,,NEG,STABLE,,Nonprofit,1
+75,1200 K St NW,1200 K St NW,38.9021793,-77.0286597,East End,A,Office,Starwood Property Trust,,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+76,1200 New Hampshire Ave NW,1200 New Hampshire Ave NW,38.905841,-77.047745,CBD,A,Office,"Brookfield Asset Management, Inc.",,,63.4105,14655.2546743996,56.0,14.4655231804057,,NEG,PRIORITY,,Nonprofit,1
+77,1200 New York Ave NW,1200 New York Ave NW,38.9001984,-77.028384,East End,A,Office,American Assoc. for the Advancement of Science,Savills,,46.2546,14655.2546743996,80.0,10.0768938198706,,NEG,WATCH,,Nonprofit,1
+78,1200 Wilson Blvd,1200 Wilson Blvd,38.8947479,-77.0713697,Rosslyn,A,Office,Beacon Capital Partners,JLL,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+79,1201 15th St NW,1201 15th St NW,38.9059744,-77.0340102,East End,A,Office,National Association of Home Builders,Transwestern Real Estate Services,,43.0272,14655.2546743996,64.0,9.0054839219937,,NEG,WATCH,,Nonprofit,1
+80,1201 Eye St NW,1201 Eye St NW,38.9016326,-77.028464,East End,A,Office,Piedmont Realty Trust,Cushman & Wakefield,,55.1237,14655.2546743996,64.0,11.5372507174718,,NEG,WATCH,,Nonprofit,1
+81,1201 F St NW,1201 F St NW,38.897652,-77.0285665,East End,A,Office,Tishman Speyer,Tishman Speyer,,47.0811,14655.2546743996,72.0,9.8539549187439,,NEG,WATCH,,Nonprofit,1
+82,1201 M St SE,1201 M St SE,38.8761332,-76.9893492,Capitol Riverfront,A,Office,COPT Defense Properties,Avison Young,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+83,1201 New York Ave NW,1201 New York Ave NW,38.9010221,-77.0285635,East End,A,Office,1201-1225 NEW YORK AVE SPE LLC,"Stream Realty Partners, LP",,74.0,14655.2546743996,64.0,15.4880124718209,,NEG,PRIORITY,,Nonprofit,1
+84,1201 Pennsylvania Ave NW,1201 Pennsylvania Ave NW,38.895866,-77.028498,East End,A,Office,Sentinel Real Estate Corporation,JLL,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+85,1211 Connecticut Ave NW,1211 Connecticut Ave NW,38.9063016,-77.0409743,CBD,A,Office,Office Properties Income Trust,,,49.3951,14655.2546743996,56.0,11.2682594215226,,NEG,WATCH,,Nonprofit,1
+86,1212 New York Ave NW,1212 New York Ave NW,38.9000574,-77.0287524,East End,B,Office,"Dalian Development, LLC",,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+87,122 C St NW,122 C St NW,38.893445,-77.012903,Capitol Hill,B,Office,Zuckerman Gravely,JLL,,49.2282,14655.2546743996,64.0,11.9531745878211,,NEG,WATCH,,Nonprofit,1
+88,1220 12th St SE,1220 12th St SE,38.8752942,-76.9897903,Capitol Riverfront,B,Office,COPT Defense Properties,Avison Young,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+89,1220 19th St NW,1220 19th St NW,38.906547,-77.043865,CBD,A,Office,"Brookfield Asset Management, Inc.","Stream Realty Partners, LP",,52.9027,14655.2546743996,72.0,12.5619941981745,,NEG,WATCH,,Nonprofit,1
+90,1220 L St NW,1220 L St NW,38.9033632,-77.0291406,East End,B,Office,Blackstone Inc.,JLL,,49.3952,14655.2546743996,64.0,10.3382901844337,,NEG,WATCH,,Nonprofit,1
+91,1225 Eye St NW,1225 Eye St NW,38.9016128,-77.029036,East End,A,Office,Piedmont Realty Trust,Cushman & Wakefield,,49.2365,14655.2546743996,80.0,10.7265219580768,,NEG,WATCH,,Nonprofit,1
+92,1227 25th St NW,1227 25th St NW,38.905993,-77.052759,West End,A,Office,ADAM Asset Management,JLL,,43.9955,14655.2546743996,72.0,10.7893020511317,,NEG,WATCH,,Nonprofit,1
+93,1233 20th St NW,1233 20th St NW,38.9066666,-77.0444505,CBD,A,Office,BGO,,,47.0,14655.2546743996,64.0,10.721877125698,,NEG,WATCH,,Nonprofit,1
+94,1250 23rd St NW,1250 23rd St NW,38.906202,-77.050481,West End,B,Office,Hartford Investment Management Company,Cambridge Property Group LLC,,49.75,14655.2546743996,56.0,11.7211546477449,,NEG,WATCH,,Nonprofit,1
+95,1250 24th St NW,1250 24th St NW,38.9065304,-77.0518941,West End,A,Office,World Wide Fund for Nature,JLL,,53.8402,14655.2546743996,72.0,13.2035817366172,,NEG,WATCH,,Nonprofit,1
+96,1250 Connecticut Ave NW,1250 Connecticut Ave NW,38.9069123,-77.0422525,CBD,B,Office,"Brookfield Asset Management, Inc.",CBRE,,54.5383,14655.2546743996,56.0,12.4415521541372,,NEG,WATCH,,Nonprofit,1
+97,1250 H St NW,1250 H St NW,38.8996445,-77.0289944,East End,A,Office,Banyan Street Capital,Cushman & Wakefield,,55.8465,14655.2546743996,64.0,11.6885309257777,,NEG,WATCH,,Nonprofit,1
+98,1250 I St NW,1250 I St NW,38.901,-77.02924,East End,A,Office,"Kairos Investment Management Company, LLC",,,63.8987,14655.2546743996,80.0,13.9207865839887,,NEG,WATCH,,Nonprofit,1
+99,1255 23rd St NW,1255 23rd St NW,38.9063438,-77.0496154,West End,A,Office,"Divco West Services, LLC",Cushman & Wakefield,,47.8588,14655.2546743996,56.0,11.2755858503616,,NEG,WATCH,,Nonprofit,1
+100,1255 Union St NE,1255 Union St NE,38.9085666,-77.0005516,Capitol Hill,A,Office,J.P. Morgan Asset Management,Avison Young,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+101,1275 1st St NE,1275 1st St NE,38.9068717,-77.0054768,NoMa,A,Office,Boyd Watterson Global,Cushman & Wakefield,,55.0,14655.2546743996,72.0,13.1655260853646,,NEG,WATCH,,Nonprofit,1
+102,1275 K St NW,1275 K St NW,38.9028759,-77.0292312,East End,B,Office,"Metro Shipping & Warehousing, Inc.",Newmark,,60.0397,14655.2546743996,64.0,12.5661570595188,,NEG,WATCH,,Nonprofit,1
+103,1275 New Jersey Ave SE,1275 New Jersey Ave SE,38.8751668,-77.0041641,Capitol Riverfront,A,Office,"Brookfield Asset Management, Inc.",,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+104,1275 Pennsylvania Ave NW,1275 Pennsylvania Ave NW,38.895896,-77.029197,East End,A,Office,Willco Companies,CBRE,,65.0,14655.2546743996,80.0,14.1607126273189,,NEG,PRIORITY,,Nonprofit,1
+105,1300 19th St NW,1300 19th St NW,38.9074534,-77.0440193,CBD,B,Office,The Lenkin Company,CBRE,,48.8969,14655.2546743996,64.0,11.1546075239902,,NEG,WATCH,,Nonprofit,1
+106,1300 Connecticut Ave NW,1300 Connecticut Ave NW,38.9074693,-77.0426763,CBD,A,Office,ARES Management LLC,JLL,,61.6893,14655.2546743996,72.0,14.6484135722647,,NEG,PRIORITY,,Nonprofit,1
+107,1300 I St NW,1300 I St NW,38.9012085,-77.030297,East End,A,Office,Norges Bank Investment Management,Avison Young,,52.0,14655.2546743996,64.0,10.8834682234417,,NEG,WATCH,,Nonprofit,1
+108,1300 N 17th St,1300 N 17th St,38.8938432,-77.0723753,Rosslyn,A,Office,"Brookfield Asset Management, Inc.",Transwestern Real Estate Services,,19.1257,14655.2546743996,26.0,2.51300071743901,,NEG,OPPORTUNITY,,Nonprofit,1
+109,1300 Pennsylvania Ave NW,1300 Pennsylvania Ave NW,38.8939438,-77.0306823,East End,A,Office,US General Services Administration,Trade Center Management Associates,,43.1322,14655.2546743996,64.0,9.02746015590646,,NEG,WATCH,,Nonprofit,1
+110,1300 Spring St,1300 Spring St,38.998896,-77.032195,Silver Spring,A,Office,Bernstein Companies,"AMR Commercial, LLC",,26.1571,14655.2546743996,52.0,2.51609943265297,,NEG,STABLE,,Nonprofit,1
+111,1300 Wilson Blvd,1300 Wilson Blvd,38.8946939,-77.0726565,Rosslyn,A,Office,"Divco West Services, LLC",Cushman & Wakefield,,55.0,14655.2546743996,76.0,7.52221505849621,,NEG,STABLE,,Nonprofit,1
+112,1307 New York Ave NW,1307 New York Ave NW,38.9005091,-77.0305153,East End,A,Office,Marx Realty & Improvement Co. Inc,Avison Young,,68.2008,14655.2546743996,80.0,14.8580296885116,,NEG,PRIORITY,,Nonprofit,1
+113,131 M St NE,131 M St NE,38.9051871,-77.0047105,NoMa,B,Office,"Bristol Group, Inc.",Cushman & Wakefield,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+114,1310 G St NW,1310 G St NW,38.8980618,-77.0303352,East End,A,Office,Gaedeke Group,Transwestern Real Estate Services,,56.7181,14655.2546743996,64.0,11.8709545969998,,NEG,WATCH,,Nonprofit,1
+115,1310 L St NW,1310 L St NW,38.9034432,-77.0304364,East End,A,Office,The Morris & Gwendolyn Cafritz Foundation,Colliers,,45.5724,14655.2546743996,80.0,9.9282716944189,,NEG,WATCH,,Nonprofit,1
+116,1310 N Courthouse Rd,1310 N Courthouse Rd,38.8887517,-77.0841471,Clarendon/Courthouse,A,Office,AEW Capital Management,CBRE,,40.8805,14655.2546743996,40.0,6.89652381948764,,NEG,STABLE,,Nonprofit,1
+117,1320 Braddock Pl,1320 Braddock Pl,38.814952,-77.052504,Old Town Alexandria,A,Office,Kawa Capital Management,Transwestern Real Estate Services,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+118,1320 N Courthouse Rd,1320 N Courthouse Rd,38.8889465,-77.0847935,Clarendon/Courthouse,A,Office,Quadrangle Development Corp.,Cushman & Wakefield,,42.5,14655.2546743996,52.0,7.16973281462371,,NEG,STABLE,,Nonprofit,1
+119,1325 G St NW,1325 G St NW,38.8987391,-77.0308787,East End,A,Office,FarmViewVentures LLC,JLL,,51.2502,14655.2546743996,64.0,10.7265369835583,,NEG,WATCH,,Nonprofit,1
+120,1330 Connecticut Ave NW,1330 Connecticut Ave NW,38.9078837,-77.0429472,CBD,A,Office,"BXP, Inc.",Transwestern Real Estate Services,,56.0,14655.2546743996,72.0,13.2974626077264,,NEG,WATCH,,Nonprofit,1
+121,1331 F St NW,1331 F St NW,38.8976131,-77.0308322,East End,A,Office,James Campbell Company LLC,JLL,,47.5,14655.2546743996,80.0,10.34821307381,,NEG,WATCH,,Nonprofit,1
+122,1331 L St NW,1331 L St NW,38.904083,-77.0309854,East End,A,Office,Global Atlantic Financial Group,Lincoln Property Company,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+123,1333 H St NW,1333 H St NW,38.90053,-77.031081,East End,A,Office,TA Realty,Avison Young,,74.3213,14655.2546743996,72.0,15.5552597475939,,NEG,PRIORITY,,Nonprofit,1
+124,1333 New Hampshire Ave NW,1333 New Hampshire Ave NW,38.9085253,-77.0438914,CBD,A,Office,WeWork Capital Advisors LLC,,,64.0,14655.2546743996,72.0,15.1971001231159,,NEG,PRIORITY,,Nonprofit,1
+125,1341 G St NW,1341 G St NW,38.8987459,-77.0315523,East End,A,Office,New York Life Insurance Company,Lincoln Property Company,,54.6,14655.2546743996,72.0,11.4276416346138,,NEG,WATCH,,Nonprofit,1
+126,1350 Connecticut Ave NW,1350 Connecticut Ave NW,38.9083018,-77.0430623,CBD,B,Office,The Guardian Life Insurance Company of America,,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+127,1350 Eye St NW,1350 Eye St NW,38.9010119,-77.0314934,East End,A,Office,"MetLife, Inc",JLL,,64.0,14655.2546743996,64.0,13.3950378134668,,NEG,WATCH,,Nonprofit,1
+128,1399 New York Ave NW,1399 New York Ave NW,38.9000555,-77.0315704,East End,A,Office,Azora Private Solutions LLC,JLL,,65.0,14655.2546743996,80.0,14.1607126273189,,NEG,PRIORITY,,Nonprofit,1
+129,1400 16th St NW,1400 16th St NW,38.9091258,-77.0368695,CBD,A,Office,Meyer Eugene-Agnes E Meyer,Stout & Teague Companies,,49.3744,14655.2546743996,72.0,11.7241828174809,,NEG,WATCH,,Nonprofit,1
+130,1400 I St NW,1400 I St NW,38.9009142,-77.0323497,East End,B,Office,Zuckerman Gravely,JLL,,49.6502,14655.2546743996,72.0,10.3916610382217,,NEG,WATCH,,Nonprofit,1
+131,1400 K St NW,1400 K St NW,38.9022407,-77.0324505,East End,B,Office,Taicoon Property Partners,,,62.8425,14655.2546743996,64.0,13.1527759967623,,NEG,WATCH,,Nonprofit,1
+132,1400 L St NW,1400 L St NW,38.903481,-77.032313,East End,A,Office,The Meridian Group,CBRE,,63.4958,14655.2546743996,80.0,13.833011951411,,NEG,WATCH,,Nonprofit,1
+133,1401 H St NW,1401 H St NW,38.9005033,-77.0324223,East End,A,Office,Tourmaline Capital Partners,Cushman & Wakefield,,60.5767,14655.2546743996,72.0,12.6785497986723,,NEG,WATCH,,Nonprofit,1
+134,1401 I St NW,1401 I St NW,38.901766,-77.0322879,East End,A,Office,Tennessee Consolidated Retirement System,CBRE,,64.7931,14655.2546743996,64.0,13.5610316336208,,NEG,WATCH,,Nonprofit,1
+135,1401 K St NW,1401 K St NW,38.9029408,-77.0322233,East End,A,Office,Office Properties Income Trust,"Stream Realty Partners, LP",,54.0,14655.2546743996,72.0,11.3020631551125,,NEG,WATCH,,Nonprofit,1
+136,1401 New York Ave NW,1401 New York Ave NW,38.8997699,-77.0322167,East End,A,Office,AXA Investment Managers US Inc,CBRE,,71.0,14655.2546743996,80.0,15.4678553313791,,NEG,PRIORITY,,Nonprofit,1
+137,1410 Spring Hill Rd,1410 Spring Hill Rd,38.9327001,-77.2355413,Tysons Corner,A,Office,JBG SMITH Properties,Newmark,,35.4614,14655.2546743996,56.0,6.84684130485088,,NEG,STABLE,,Nonprofit,1
+138,1420 Spring Hill Rd,1420 Spring Hill Rd,38.931992,-77.2352202,Tysons Corner,A,Office,JBG SMITH Properties,Newmark,,39.0,14655.2546743996,68.0,7.23421161833725,,NEG,STABLE,,Nonprofit,1
+139,1425 K St NW,1425 K St NW,38.9029142,-77.0329903,East End,A,Office,"Blake Real Estate, Inc.","Blake Real Estate, Inc.",,59.2315,14655.2546743996,80.0,12.9040038459238,,NEG,WATCH,,Nonprofit,1
+140,1430 Spring Hill Rd,1430 Spring Hill Rd,38.9321604,-77.2342745,Tysons Corner,A,Office,JBG SMITH Properties,Newmark,,39.0,14655.2546743996,52.0,7.23421161833725,,NEG,STABLE,,Nonprofit,1
+141,1445 New York Ave NW,1445 New York Ave NW,38.899279,-77.0333475,East End,A,Office,"Ponte Gadea USA, Inc.",Cushman & Wakefield,,56.6856,14655.2546743996,80.0,12.3493614108792,,NEG,WATCH,,Nonprofit,1
+142,1455 Pennsylvania Ave NW,1455 Pennsylvania Ave NW,38.8970856,-77.0326536,East End,A,Office,The Carr Companies,CBRE,,71.4814,14655.2546743996,64.0,14.9608758743678,,NEG,PRIORITY,,Nonprofit,1
+143,1500 Eckington Pl NE,1500 Eckington Pl NE,38.909804,-77.005826,NoMa,B,Office,SiriusXM,,,55.0,14655.2546743996,72.0,13.1655260853645,,NEG,WATCH,,Nonprofit,1
+144,1500 K St NW,1500 K St NW,38.9021059,-77.0349326,East End,A,Office,Grosvenor,CBRE,,61.5,14655.2546743996,80.0,13.3982127166171,,NEG,WATCH,,Nonprofit,1
+145,1500 Wilson Blvd,1500 Wilson Blvd,38.8945251,-77.0743177,Rosslyn,B,Office,The Meridian Group,CBRE,,46.0,14655.2546743996,56.0,6.04412037217959,,NEG,STABLE,,Nonprofit,1
+146,1501 Farm Credit Dr,1501 Farm Credit Dr,38.9316101,-77.2020668,Tysons Corner,B,Office,US Farm Credit Administration,TrustPoint Commercial Real Estate,,28.0,14655.2546743996,44.0,5.40620383109027,,NEG,STABLE,,Nonprofit,1
+147,1501 K St NW,1501 K St NW,38.9030654,-77.0349966,East End,A,Office,"Ponte Gadea USA, Inc.",CBRE,,59.3278,14655.2546743996,64.0,12.4171581935906,,NEG,WATCH,,Nonprofit,1
+148,1501 M St NW,1501 M St NW,38.9060037,-77.0348761,East End,A,Office,"Real Capital Solutions, Inc.",CBRE,,60.2201,14655.2546743996,64.0,12.6039143223555,,NEG,WATCH,,Nonprofit,1
+149,1501 Wilson Blvd,1501 Wilson Blvd,38.8952079,-77.0741971,Rosslyn,B,Office,Beacon Capital Partners,JLL,,40.0,14655.2546743996,64.0,5.47070186072452,,NEG,STABLE,,Nonprofit,1
+150,1515 N Courthouse Rd,1515 N Courthouse Rd,38.8912279,-77.0836079,Clarendon/Courthouse,A,Office,MEPT Fund,CBRE,,41.9098,14655.2546743996,52.0,7.070166313278,,NEG,STABLE,,Nonprofit,1
+151,1515 Wilson Blvd,1515 Wilson Blvd,38.8951702,-77.0745971,Rosslyn,B,Office,Beacon Capital Partners,JLL,,39.5,14655.2546743996,64.0,5.40231808746546,,NEG,STABLE,,Nonprofit,1
+152,1525 Wilson Blvd,1525 Wilson Blvd,38.8952798,-77.0753602,Rosslyn,A,Office,Dry Creek Capital Partners,Cushman & Wakefield,,37.412,14655.2546743996,36.0,4.91570937747785,,NEG,OPPORTUNITY,,Nonprofit,1
+153,1530 Wilson Blvd,1530 Wilson Blvd,38.8943103,-77.0750823,Rosslyn,A,Office,jemal va,Lincoln Property Company,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+154,1550 Wilson Blvd,1550 Wilson Blvd,38.894253,-77.075935,Rosslyn,B,Office,"Empire Leasing, Inc.","Summit Commercial Real Estate, LLC",,38.6087,14655.2546743996,44.0,5.07294848289932,,NEG,STABLE,,Nonprofit,1
+155,1560 Wilson Blvd,1560 Wilson Blvd,38.8939001,-77.0763602,Rosslyn,A,Office,"Empire Leasing, Inc.","Summit Commercial Real Estate, LLC",,39.0,14655.2546743996,44.0,5.12436292423918,,NEG,STABLE,,Nonprofit,1
+156,1575 Eye St NW,1575 Eye St NW,38.9018367,-77.0353847,East End,A,Office,ADAM Asset Management,JLL,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+157,1577 Spring Hill Rd,1577 Spring Hill Rd,38.9274222,-77.2422213,Tysons Corner,B,Office,Berman Enterprises,"BECO Management, Inc.",,33.448,14655.2546743996,56.0,6.45809663365384,,NEG,STABLE,,Nonprofit,1
+158,1595 Spring Hill Rd,1595 Spring Hill Rd,38.9260822,-77.2455472,Tysons Corner,B,Office,Berman Enterprises,Berman Enterprises,,29.75,14655.2546743996,44.0,5.51840501655216,,NEG,STABLE,,Nonprofit,1
+159,1600 Tysons Blvd,1600 Tysons Blvd,38.9264046,-77.2255483,Tysons Corner,B,Office,Lerner,JLL,,35.0,14655.2546743996,56.0,6.75775478886284,,NEG,STABLE,,Nonprofit,1
+160,1600 Wilson Blvd,1600 Wilson Blvd,38.8940171,-77.0770359,Rosslyn,A,Office,"Brookfield Asset Management, Inc.",Transwestern Real Estate Services,,35.0,14655.2546743996,44.0,4.59878723970183,,NEG,STABLE,,Nonprofit,1
+161,1601 K St NW,1601 K St NW,38.9027455,-77.0370672,CBD,A,Office,Morgan Stanley & Co. LLC,"Stream Realty Partners, LP",,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+162,1615 L St NW,1615 L St NW,38.9043804,-77.0374694,CBD,A,Office,CW Capital,Cushman & Wakefield,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+163,1615 M St NW,1615 M St NW,38.9060258,-77.0372903,CBD,A,Office,"BXP, Inc.",BXP,,39.0,14655.2546743996,72.0,9.26073288752375,,NEG,WATCH,,Nonprofit,1
+164,1620 I St NW,1620 I St NW,38.9010275,-77.0374802,CBD,A,Office,"TF Cornerstone, Inc.",JLL,,48.8572,14655.2546743996,72.0,11.601371252111,,NEG,WATCH,,Nonprofit,1
+165,1620 L St NW,1620 L St NW,38.9034061,-77.0376272,CBD,B,Office,"Divco West Services, LLC",JLL,,56.8738,14655.2546743996,64.0,12.9743381972664,,NEG,WATCH,,Nonprofit,1
+166,1621 N Kent St,1621 N Kent St,38.8958882,-77.0689271,Rosslyn,B,Office,Gould Property Company,Avison Young,,30.9204,14655.2546743996,34.0,4.06275259904219,,NEG,OPPORTUNITY,,Nonprofit,1
+167,1625 Eye St NW,1625 Eye St NW,38.9017004,-77.0375975,CBD,A,Office,FarmViewVentures LLC,Avison Young,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+168,1625 K St NW,1625 K St NW,38.9029604,-77.0373276,CBD,B,Office,Zuckerman Gravely,JLL,,44.3365,14655.2546743996,64.0,10.1142660677342,,NEG,WATCH,,Nonprofit,1
+169,1627 I St NW,1627 I St NW,38.9016959,-77.038082,CBD,A,Office,"Brookfield Asset Management, Inc.",JLL,,45.0,14655.2546743996,72.0,10.6854610240659,,NEG,WATCH,,Nonprofit,1
+170,1640 Boro Pl,1640 Boro Pl,38.92464,-77.2338001,Tysons Corner,A,Office,The Meridian Group,CBRE,,56.0,14655.2546743996,72.0,10.3875859135099,,NEG,WATCH,,Nonprofit,1
+171,1650 Tysons Blvd,1650 Tysons Blvd,38.9249647,-77.2237949,Tysons Corner,A,Office,Lerner,JLL,,41.0,14655.2546743996,52.0,7.60519682953403,,NEG,STABLE,,Nonprofit,1
+172,1655 Fort Myer Dr,1655 Fort Myer Dr,38.8939112,-77.0715171,Rosslyn,A,Office,BGO,JLL,,8.2533,14655.2546743996,42.0,1.08443344929804,,NEG,STABLE,,Nonprofit,1
+173,1660 International Dr,1660 International Dr,38.9248955,-77.230523,Tysons Corner,A,Office,American Real Estate Partners (AREP),Cushman & Wakefield,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+174,1660 L St NW,1660 L St NW,38.9035751,-77.0381468,CBD,A,Office,Korea International Trade Association,Lincoln Property Company,,48.8925,14655.2546743996,72.0,11.1772823334629,,NEG,WATCH,,Nonprofit,1
+175,1666 K St NW,1666 K St NW,38.902145,-77.0379455,CBD,A,Office,Potomac Investment Properties,JBG SMITH Properties,,50.7433,14655.2546743996,72.0,12.049234541833,,NEG,WATCH,,Nonprofit,1
+176,1667 K St NW,1667 K St NW,38.9030837,-77.0381735,CBD,B,Office,James Campbell Company LLC,JLL,,50.5019,14655.2546743996,56.0,11.5207482215805,,NEG,WATCH,,Nonprofit,1
+177,1676 International Dr,1676 International Dr,38.9241493,-77.2284437,Tysons Corner,B,Office,Brandywine Realty Trust,Brandywine Realty Trust,,47.6755,14655.2546743996,80.0,9.20512395532658,,NEG,WATCH,,Nonprofit,1
+178,1700 K St NW,1700 K St NW,38.9023486,-77.0400565,CBD,A,Office,Potomac Investment Properties,JBG SMITH Properties,,55.9411,14655.2546743996,64.0,12.7615659675825,,NEG,WATCH,,Nonprofit,1
+179,1700 M St NW,1700 M St NW,38.9053549,-77.0391378,CBD,A,Office,Skanska USA,CBRE,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+180,1700 N Moore St,1700 N Moore St,38.8956343,-77.0718558,Rosslyn,A,Office,American Real Estate Partners (AREP),JLL,,53.0,14655.2546743996,48.0,6.96387782011991,,NEG,STABLE,,Nonprofit,1
+181,1700 New York Ave NW,1700 New York Ave NW,38.896018,-77.0404518,CBD,A,Office,Carr Properties,JLL,,72.0,14655.2546743996,72.0,17.0967376385055,,NEG,PRIORITY,,Nonprofit,1
+182,1700 Pennsylvania Ave NW,1700 Pennsylvania Ave NW,38.8986189,-77.0398745,CBD,A,Office,Akridge,Avison Young,,78.0,14655.2546743996,72.0,18.5214657750476,,NEG,PRIORITY,,Nonprofit,1
+183,1701 Duke St,1701 Duke St,38.804903,-77.059634,Old Town Alexandria,A,Office,J.P. Morgan Asset Management,,,,14655.2546743996,,,,NEG,STABLE,,Nonprofit,1
+184,1701 Pennsylvania Ave NW,1701 Pennsylvania Ave NW,38.8993478,-77.0398247,CBD,A,Office,Grosvenor,Cushman & Wakefield,,44.2817,14655.2546743996,56.0,10.1017648152557,,NEG,WATCH,,Nonprofit,1
+185,1701 Rhode Island Ave NW,1701 Rhode Island Ave NW,38.9066616,-77.0390646,CBD,A,Office,Azora Private Solutions LLC,CBRE,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+186,1707 L St NW,1707 L St NW,38.9040996,-77.0391927,CBD,B,Office,The Tower Companies,Transwestern Real Estate Services,,48.7902,14655.2546743996,72.0,11.5854617879196,,NEG,WATCH,,Nonprofit,1
+187,1717 H St NW,1717 H St NW,38.900449,-77.0407751,CBD,B,Office,George Lemm,Donohoe,,48.0,14655.2546743996,56.0,10.9500021709256,,NEG,WATCH,,Nonprofit,1
+188,1717 K St NW,1717 K St NW,38.9029379,-77.0403526,CBD,A,Office,Potomac Investment Properties,JBG SMITH Properties,,70.0517,14655.2546743996,56.0,15.9805472307715,,NEG,PRIORITY,,Nonprofit,1
+189,1717 Pennsylvania Ave NW,1717 Pennsylvania Ave NW,38.8994649,-77.04039,CBD,A,Office,Tishman Speyer,Tishman Speyer,,53.9211,14655.2546743996,56.0,12.3007533762228,,NEG,WATCH,,Nonprofit,1
+190,1717 Rhode Island Ave NW,1717 Rhode Island Ave NW,38.9065553,-77.039577,CBD,A,Office,Tritower Financial Group,Lincoln Property Company,,56.8556,14655.2546743996,64.0,12.9701863214432,,NEG,WATCH,,Nonprofit,1
+191,1725 Duke St,1725 Duke St,38.8049051,-77.0605524,Old Town Alexandria,A,Office,Fortress Investment Group,JLL,,42.4704,14655.2546743996,56.0,9.82751295384784,,NEG,WATCH,,Nonprofit,1
+192,1725 I St NW,1725 I St NW,38.9017417,-77.0404217,CBD,A,Office,Calvin Cafritz,,,51.4719,14655.2546743996,56.0,11.7420295154513,,NEG,WATCH,,Nonprofit,1
+193,1730 M St NW,1730 M St NW,38.9053979,-77.0398207,CBD,A,Office,Fortress Investment Group,Cushman & Wakefield,,47.8731,14655.2546743996,72.0,11.2687733589366,,NEG,WATCH,,Nonprofit,1
+194,1730 Pennsylvania Ave NW,1730 Pennsylvania Ave NW,38.8986858,-77.040422,CBD,A,Office,Tishman Speyer,Tishman Speyer,,59.1646,14655.2546743996,56.0,13.4969270508738,,NEG,WATCH,,Nonprofit,1
+195,1730 Rhode Island Ave NW,1730 Rhode Island Ave NW,38.9059317,-77.0394368,CBD,B,Office,"Blake Real Estate, Inc.","Blake Real Estate, Inc.",,49.7693,14655.2546743996,72.0,11.8179536743343,,NEG,WATCH,,Nonprofit,1
+196,1735 N Lynn St,1735 N Lynn St,38.8956739,-77.0704833,Rosslyn,A,Office,"Ascentris, LLC",Avison Young,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+197,1737 King St,1737 King St,38.8068132,-77.0587237,Old Town Alexandria,A,Office,"Stockbridge Capital Group, LLC",Lincoln Property Company,,42.0,14655.2546743996,56.0,9.71866391796657,,NEG,WATCH,,Nonprofit,1
+198,1747 Pennsylvania Ave NW,1747 Pennsylvania Ave NW,38.89965,-77.0409952,CBD,A,Office,Tishman Speyer,Tishman Speyer,,56.4626,14655.2546743996,72.0,13.4073091470539,,NEG,WATCH,,Nonprofit,1
+199,1750 H St NW,1750 H St NW,38.8999691,-77.0409679,CBD,A,Office,Douglas Development Corporation,,,67.8939,14655.2546743996,72.0,15.4882990081792,,NEG,PRIORITY,,Nonprofit,1
+200,1750 K St NW,1750 K St NW,38.9021208,-77.0408052,CBD,B,Office,Bridge Investment Group,Lincoln Property Company,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+201,1750 New York Ave NW,1750 New York Ave NW,38.8956538,-77.0410887,CBD,B,Office,Iron Workers Union,Cushman & Wakefield,,52.3543,14655.2546743996,56.0,11.9433270553602,,NEG,WATCH,,Nonprofit,1
+202,1750 Pennsylvania Ave NW,1750 Pennsylvania Ave NW,38.8989455,-77.0408114,CBD,A,Office,Manulife US Real Estate Investment Trust,CBRE,,49.5883,14655.2546743996,56.0,11.3123331802606,,NEG,WATCH,,Nonprofit,1
+203,1750 Tysons Blvd,1750 Tysons Blvd,38.9239104,-77.2229811,Tysons Corner,A,Office,Lerner,JLL,,16.6094,14655.2546743996,18.0,3.08092088342593,,NEG,OPPORTUNITY,,Nonprofit,1
+204,1750 Tysons Central St,1750 Tysons Central St,38.9207706,-77.2329422,Tysons Corner,A,Office,The Meridian Group,Cushman & Wakefield,,65.0,14655.2546743996,64.0,12.0570193638954,,NEG,WATCH,,Nonprofit,1
+205,1751 Pinnacle Dr,1751 Pinnacle Dr,38.9211981,-77.2283757,Tysons Corner,A,Office,COPT Defense Properties,Cushman & Wakefield,,41.4289,14655.2546743996,60.0,7.68475460807522,,NEG,STABLE,,Nonprofit,1
+206,1753 Pinnacle Dr,1753 Pinnacle Dr,38.9207438,-77.2284567,Tysons Corner,B,Office,COPT Defense Properties,Cushman & Wakefield,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+207,1765 Greensboro Station Pl,1765 Greensboro Station Pl,38.922101,-77.2336709,Tysons Corner,A,Office,"MetLife, Inc",CBRE,,45.0,14655.2546743996,68.0,8.3471672519276,,NEG,STABLE,,Nonprofit,1
+208,1775 Eye St NW,1775 Eye St NW,38.9015626,-77.0413148,CBD,A,Office,"Brookfield Asset Management, Inc.",JLL,,65.0,14655.2546743996,72.0,15.4345548125396,,NEG,PRIORITY,,Nonprofit,1
+209,1775 Greensboro Station Pl,1775 Greensboro Station Pl,38.92155,-77.2334627,Tysons Corner,A,Office,"MetLife, Inc",CBRE,,45.0,14655.2546743996,68.0,8.34716725192764,,NEG,STABLE,,Nonprofit,1
+210,1775 K St NW,1775 K St NW,38.9028943,-77.0411913,CBD,A,Office,UFCW,"Union Realty Advisors, LLC",,41.6288,14655.2546743996,72.0,9.88495377508078,,NEG,WATCH,,Nonprofit,1
+211,1775 Pennsylvania Ave NW,1775 Pennsylvania Ave NW,38.8998912,-77.041323,CBD,A,Office,RS Washington Corporation,Avison Young,,72.3833,14655.2546743996,56.0,16.5124435862241,,NEG,PRIORITY,,Nonprofit,1
+212,1775 Tysons Blvd,1775 Tysons Blvd,38.9236989,-77.2214444,Tysons Corner,A,Office,Lerner,JLL,,32.0,14655.2546743996,44.0,6.1785186641032,,NEG,STABLE,,Nonprofit,1
+213,1776 I St NW,1776 I St NW,38.9009614,-77.0412859,CBD,A,Office,Rockrose Development Corp.,Avison Young,,72.0284,14655.2546743996,64.0,16.4314820076729,,NEG,PRIORITY,,Nonprofit,1
+214,1776 Wilson Blvd,1776 Wilson Blvd,38.893524,-77.078208,Rosslyn,A,Office,"Oaktree Capital Management, L.P.",Lincoln Property Company,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+215,1777 N Kent St,1777 N Kent St,38.8969144,-77.0691364,Rosslyn,A,Office,Vornado Realty Trust,Avison Young,,43.0755,14655.2546743996,48.0,5.65985884982218,,NEG,STABLE,,Nonprofit,1
+216,1785 Greensboro Station Pl,1785 Greensboro Station Pl,38.9218741,-77.2330517,Tysons Corner,A,Office,"MetLife, Inc",CBRE,,45.0,14655.2546743996,60.0,8.3471672519276,,NEG,STABLE,,Nonprofit,1
+217,1800 Diagonal Rd,1800 Diagonal Rd,38.805691,-77.059982,Old Town Alexandria,A,Office,The Carr Companies,The Carr Companies,,41.7799,14655.2546743996,72.0,10.0631153903768,,NEG,WATCH,,Nonprofit,1
+218,1800 K St NW,1800 K St NW,38.902127,-77.042026,CBD,A,Office,DWS Group,,,68.805,14655.2546743996,72.0,16.3380699057968,,NEG,PRIORITY,,Nonprofit,1
+219,1800 Massachusetts Ave NW,1800 Massachusetts Ave NW,38.9088813,-77.0421966,CBD,B,Office,Service Employees International Union,Cushman & Wakefield,,45.2615,14655.2546743996,64.0,10.3252817345697,,NEG,WATCH,,Nonprofit,1
+220,1800 Tysons Blvd,1800 Tysons Blvd,38.9225194,-77.2226586,Tysons Corner,B,Office,Lerner,JLL,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+221,1801 L St NW,1801 L St NW,38.9041273,-77.0420224,CBD,A,Office,"Empire Leasing, Inc.","Summit Commercial Real Estate, LLC",,39.4299,14655.2546743996,52.0,8.99494772082038,,NEG,STABLE,,Nonprofit,1
+222,1801 Pennsylvania Ave NW,1801 Pennsylvania Ave NW,38.9006112,-77.0418967,CBD,A,Office,Pembroke Real Estate,Cushman & Wakefield,,64.2581,14655.2546743996,72.0,15.2583871784562,,NEG,PRIORITY,,Nonprofit,1
+223,1818 N St NW,1818 N St NW,38.906989,-77.042936,CBD,B,Office,The Lenkin Company,CBRE,,47.68,14655.2546743996,72.0,11.3218395917214,,NEG,WATCH,,Nonprofit,1
+224,1825 I St NW,1825 I St NW,38.9017265,-77.0420083,CBD,A,Office,Tishman Speyer,Tishman Speyer,,54.7902,14655.2546743996,56.0,12.4990168530301,,NEG,WATCH,,Nonprofit,1
+225,1825 K St NW,1825 K St NW,38.9028832,-77.0425533,CBD,A,Office,The Morris & Gwendolyn Cafritz Foundation,Colliers,,45.0796,14655.2546743996,56.0,10.2837857888429,,NEG,WATCH,,Nonprofit,1
+226,1828 L St NW,1828 L St NW,38.9035119,-77.042962,CBD,A,Office,The Tower Companies,Transwestern Real Estate Services,,52.4423,14655.2546743996,56.0,11.9634020593402,,NEG,WATCH,,Nonprofit,1
+227,1850 K St NW,1850 K St NW,38.9021284,-77.0429917,CBD,A,Office,Tishman Speyer,Tishman Speyer,,59.445,14655.2546743996,56.0,13.5608933135556,,NEG,WATCH,,Nonprofit,1
+228,1850 M St NW,1850 M St NW,38.905359,-77.042943,CBD,A,Office,JPMorgan Chase & Co,Transwestern Real Estate Services,,55.8615,14655.2546743996,56.0,12.7434072139825,,NEG,WATCH,,Nonprofit,1
+229,1850 Towers Crescent Plz,1850 Towers Crescent Plz,38.9157307,-77.2209291,Tysons Corner,A,Office,Promark Global Advisors,Transwestern Real Estate Services,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+230,1861 International Dr,1861 International Dr,38.916105,-77.2253029,Tysons Corner,A,Office,Alaska Permanent Fund Corporation (APFC),"Stream Realty Partners, LP",,52.0,14655.2546743996,80.0,10.0400928291676,,NEG,WATCH,,Nonprofit,1
+231,1875 I St NW,1875 I St NW,38.9016954,-77.0429079,CBD,A,Office,Tishman Speyer,Tishman Speyer,,59.4853,14655.2546743996,56.0,13.5700867528783,,NEG,WATCH,,Nonprofit,1
+232,1875 K St NW,1875 K St NW,38.9029519,-77.0430356,CBD,A,Office,J.P. Morgan Asset Management,,,75.5842,14655.2546743996,72.0,17.9478227363378,,NEG,PRIORITY,,Nonprofit,1
+233,1875 Pennsylvania Ave NW,1875 Pennsylvania Ave NW,38.9005143,-77.0426153,CBD,A,Office,"EastBanc, Inc.",Cushman & Wakefield,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+234,1889 F St NW,1889 F St NW,38.8976207,-77.042817,CBD,B,Office,Organization of American States,CBRE,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+235,1899 L St NW,1899 L St NW,38.9040289,-77.0430306,CBD,A,Office,Taicoon Property Partners,,,59.7384,14655.2546743996,56.0,13.6278252018254,,NEG,WATCH,,Nonprofit,1
+236,1899 Pennsylvania Ave NW,1899 Pennsylvania Ave NW,38.9005515,-77.0429488,CBD,A,Office,Declaration Partners,JLL,,79.0,14655.2546743996,64.0,18.0218785729817,,NEG,PRIORITY,,Nonprofit,1
+237,1900 Gallows Rd,1900 Gallows Rd,38.9140728,-77.2285924,Tysons Corner,A,Office,Acore Capital,Transwestern Real Estate Services,,37.0,14655.2546743996,40.0,6.86322640714051,,NEG,STABLE,,Nonprofit,1
+238,1900 K St NW,1900 K St NW,38.9020509,-77.0439232,CBD,A,Office,TIAA,,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+239,1900 L St NW,1900 L St NW,38.9034535,-77.0439106,CBD,B,Office,Zuckerman Gravely,JLL,,43.1811,14655.2546743996,64.0,9.85069039047825,,NEG,WATCH,,Nonprofit,1
+240,1900 M St NW,1900 M St NW,38.9053834,-77.043872,CBD,A,Office,Rockrose Development Corp.,Cushman & Wakefield,,60.8442,14655.2546743996,56.0,13.8800858768381,,NEG,WATCH,,Nonprofit,1
+241,1900 N St NW,1900 N St NW,38.9069685,-77.04416,CBD,A,Office,Commerz Real AG,JLL,,63.0,14655.2546743996,72.0,14.9596454336922,,NEG,PRIORITY,,Nonprofit,1
+242,1901 L St NW,1901 L St NW,38.9040166,-77.0439456,CBD,A,Office,The Meridian Group,CBRE,,62.8602,14655.2546743996,72.0,14.9264492681109,,NEG,PRIORITY,,Nonprofit,1
+243,1901 Pennsylvania Ave NW,1901 Pennsylvania Ave NW,38.9007042,-77.0437394,CBD,A,Office,Terrania AG,Cushman & Wakefield,,54.6082,14655.2546743996,56.0,12.4574980947987,,NEG,WATCH,,Nonprofit,1
+244,1909 K St NW,1909 K St NW,38.902959,-77.0440531,CBD,A,Office,The Tower Companies,CBRE,,65.6556,14655.2546743996,64.0,14.9776867194463,,NEG,PRIORITY,,Nonprofit,1
+245,1911 N Fort Myer Dr,1911 N Fort Myer Dr,38.8978065,-77.0722426,Rosslyn,C,Office,Penzance,,,,14655.2546743996,,,,NEG,STABLE,,Nonprofit,1
+246,1919 Gallows Rd,1919 Gallows Rd,38.912997,-77.226705,Tysons Corner,A,Office,Fortress Investment Group,,,35.9947,14655.2546743996,40.0,6.67675069073241,,NEG,STABLE,,Nonprofit,1
+247,1919 M St NW,1919 M St NW,38.9060601,-77.0445552,CBD,A,Office,Potomac Investment Properties,JBG SMITH Properties,,53.6387,14655.2546743996,56.0,12.2363308634505,,NEG,WATCH,,Nonprofit,1
+248,1919 Pennsylvania Ave NW,1919 Pennsylvania Ave NW,38.90091,-77.044457,CBD,A,Office,Tishman Speyer,Tishman Speyer,,59.4997,14655.2546743996,56.0,13.5733717535296,,NEG,WATCH,,Nonprofit,1
+249,1920 L St NW,1920 L St NW,38.903595,-77.044468,CBD,A,Office,Zuckerman Gravely,JLL,,46.7931,14655.2546743996,72.0,11.1112410276715,,NEG,WATCH,,Nonprofit,1
+250,1921 Gallows Rd,1921 Gallows Rd,38.9129688,-77.2274382,Tysons Corner,A,Office,Fortress Investment Group,,,37.1034,14655.2546743996,40.0,6.8824063425593,,NEG,STABLE,,Nonprofit,1
+251,1925 Ballenger Ave,1925 Ballenger Ave,38.802867,-77.06216,Old Town Alexandria,A,Office,American Real Estate Partners (AREP),JLL,,41.903,14655.2546743996,72.0,10.0927652819408,,NEG,WATCH,,Nonprofit,1
+252,1934 Old Gallows Rd,1934 Old Gallows Rd,38.9118555,-77.2225057,Tysons Corner,B,Office,Rocks Engineering Company,"Stream Realty Partners, LP",,35.0,14655.2546743996,56.0,6.75775478886284,,NEG,STABLE,,Nonprofit,1
+253,1940 Duke St,1940 Duke St,38.8041377,-77.0628162,Old Town Alexandria,A,Office,J.P. Morgan Asset Management,JLL,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+254,1945 Old Gallows Rd,1945 Old Gallows Rd,38.9109186,-77.221668,Tysons Corner,B,Office,Morning Calm Management,Morning Calm Advisors,,36.0,14655.2546743996,56.0,6.95083349711606,,NEG,STABLE,,Nonprofit,1
+255,1950 Old Gallows Rd,1950 Old Gallows Rd,38.91115,-77.2230933,Tysons Corner,A,Office,Southern Management Companies,"Divaris Real Estate, Inc.",,24.0,14655.2546743996,26.0,4.45182253436138,,NEG,OPPORTUNITY,,Nonprofit,1
+256,1951 Kidwell Dr,1951 Kidwell Dr,38.9104206,-77.2204708,Tysons Corner,B,Office,The Meridian Group,Cushman & Wakefield,,26.0,14655.2546743996,36.0,4.82280774555817,,NEG,OPPORTUNITY,,Nonprofit,1
+257,1953 Gallows Rd,1953 Gallows Rd,38.911767,-77.225908,Tysons Corner,B,Office,The Meridian Group,Cushman & Wakefield,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+258,1990 M St NW,1990 M St NW,38.9053902,-77.0445164,CBD,A,Office,"Empire Leasing, Inc.","Summit Commercial Real Estate, LLC",,39.75,14655.2546743996,56.0,9.06797054779774,,NEG,WATCH,,Nonprofit,1
+259,1999 K St NW,1999 K St NW,38.9030907,-77.0445892,CBD,A,Office,DekaBank,JLL,,55.5,14655.2546743996,64.0,12.6609400101327,,NEG,WATCH,,Nonprofit,1
+260,20 F St NW,20 F St NW,38.8969897,-77.0103189,Capitol Hill,A,Office,American College of Surgeons,Lincoln Property Company,,58.7988,14655.2546743996,72.0,14.4196114021681,,NEG,PRIORITY,,Nonprofit,1
+261,20 M St SE,20 M St SE,38.876781,-77.0078528,Capitol Riverfront,A,Office,Lerner,JLL,,55.0967,14655.2546743996,56.0,12.9808430408122,,NEG,WATCH,,Nonprofit,1
+262,20 Massachusetts Ave NW,20 Massachusetts Ave NW,38.8976956,-77.0106549,Capitol Hill,A,Office,Office Properties Income Trust,CBRE,,50.4988,14655.2546743996,56.0,11.8975727502621,,NEG,WATCH,,Nonprofit,1
+263,200 Massachusetts Ave NW,200 Massachusetts Ave NW,38.8988906,-77.0140855,Capitol Hill,A,Office,Capital Crossing,,,79.0,14655.2546743996,72.0,19.3736828093648,,NEG,PRIORITY,,Nonprofit,1
+264,2000 14th St N,2000 14th St N,38.889536,-77.082078,Clarendon/Courthouse,B,Office,Domain Capital Group,Transwestern Real Estate Services,,39.0,14655.2546743996,56.0,6.57928422988996,,NEG,STABLE,,Nonprofit,1
+265,2000 Corporate Ridge Rd,2000 Corporate Ridge Rd,38.9126476,-77.2166172,Tysons Corner,A,Office,Rubenstein Partners,Cambridge Property Group LLC,,25.0,14655.2546743996,44.0,4.63731513995978,,NEG,STABLE,,Nonprofit,1
+266,2000 Duke St,2000 Duke St,38.8044077,-77.064031,Old Town Alexandria,A,Office,OSOOL Holdings Inc,,,40.0,14655.2546743996,56.0,9.2558703980634,,NEG,WATCH,,Nonprofit,1
+267,2000 K St NW,2000 K St NW,38.9022367,-77.045166,CBD,A,Office,Spear Street Capital,JLL,,55.0,14655.2546743996,72.0,13.0600079183027,,NEG,WATCH,,Nonprofit,1
+268,2000 M St NW,2000 M St NW,38.905125,-77.045335,CBD,A,Office,"Brookfield Asset Management, Inc.","Stream Realty Partners, LP",,49.3777,14655.2546743996,56.0,11.2642900457357,,NEG,WATCH,,Nonprofit,1
+269,2000 Pennsylvania Ave NW,2000 Pennsylvania Ave NW,38.9003286,-77.045831,CBD,A,Office,MRP Realty,,,74.0,14655.2546743996,72.0,17.5716470173528,,NEG,PRIORITY,,Nonprofit,1
+270,2001 K St NW,2001 K St NW,38.902978,-77.0452879,CBD,A,Office,Rockrose Development Corp.,Avison Young,,65.0,14655.2546743996,,,,NEG,STABLE,,Nonprofit,1
+271,2001 L St NW,2001 L St NW,38.903932,-77.04535,CBD,A,Office,Melrose Solomon Enterprises,Cambridge Property Group LLC,,59.5233,14655.2546743996,56.0,13.578755504597,,NEG,WATCH,,Nonprofit,1
+272,2001 M St NW,2001 M St NW,38.906159,-77.045239,CBD,A,Office,AFL-CIO Building Investment Trust,,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+273,201 N Union St,201 N Union St,38.8056665,-77.0396134,Old Town Alexandria,A,Office,Boundary Companies,"Stream Realty Partners, LP",,303.403,14655.2546743996,72.0,73.0777095873014,,NEG,PRIORITY,,Nonprofit,1
+274,2010 Corporate Ridge Rd,2010 Corporate Ridge Rd,38.9117795,-77.2153955,Tysons Corner,B,Office,Clarion Partners,Cushman & Wakefield,,31.0,14655.2546743996,28.0,5.75027077355015,,NEG,OPPORTUNITY,,Nonprofit,1
+275,2020 K St NW,2020 K St NW,38.9022315,-77.0460792,CBD,A,Office,LaSalle Investment Management,JLL,,63.262,14655.2546743996,56.0,14.4316466111894,,NEG,PRIORITY,,Nonprofit,1
+276,2021 K St NW,2021 K St NW,38.9029095,-77.045794,CBD,B,Office,Remedy Medical Properties,Health-Pro Realty Group,,58.51,14655.2546743996,72.0,13.8934738781799,,NEG,WATCH,,Nonprofit,1
+277,2025 M St NW,2025 M St NW,38.905966,-77.045822,CBD,A,Office,Klein Family,Lincoln Property Company,,43.802,14655.2546743996,56.0,9.99233323106004,,NEG,WATCH,,Nonprofit,1
+278,2033 K St NW,2033 K St NW,38.9030951,-77.0464308,CBD,A,Office,In-Rel Properties,CBRE,,61.5679,14655.2546743996,56.0,14.0451799720693,,NEG,PRIORITY,,Nonprofit,1
+279,2050 M St NW,2050 M St NW,38.9055023,-77.0462435,CBD,A,Office,Tishman Speyer,Tishman Speyer,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+280,2051 Jamieson Ave,2051 Jamieson Ave,38.804024,-77.064555,Old Town Alexandria,A,Office,James Campbell Company LLC,JLL,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+281,2055 L St NW,2055 L St NW,38.9040865,-77.0461708,CBD,A,Office,Verizon,CBRE,,48.0,14655.2546743996,,,,NEG,STABLE,,Nonprofit,1
+282,2070 Chain Bridge Rd,2070 Chain Bridge Rd,38.9172647,-77.2375404,Tysons Corner,A,Office,AEW Capital Management,JLL,,33.5,14655.2546743996,40.0,6.21400228754613,,NEG,STABLE,,Nonprofit,1
+283,2099 Pennsylvania Ave NW,2099 Pennsylvania Ave NW,38.9015587,-77.0462904,CBD,A,Office,CalPERS,Avison Young,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+284,2100 L St NW,2100 L St NW,38.903465,-77.0471645,CBD,A,Office,Akridge,Avison Young,,60.0,14655.2546743996,72.0,14.2472813654212,,NEG,PRIORITY,,Nonprofit,1
+285,2100 M St NW,2100 M St NW,38.9050104,-77.0469917,CBD,B,Office,AllianceBernstein L.P.,Cushman & Wakefield,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+286,2100 Pennsylvania Ave NW,2100 Pennsylvania Ave NW,38.9009643,-77.047119,CBD,A,Office,"BXP, Inc.",Newmark,,58.0,14655.2546743996,72.0,13.7723719865738,,NEG,WATCH,,Nonprofit,1
+287,2101 L St NW,2101 L St NW,38.904105,-77.047082,CBD,A,Office,BG Ventures,CBRE,,61.7969,14655.2546743996,56.0,14.0974206074264,,NEG,PRIORITY,,Nonprofit,1
+288,2101 Wilson Blvd,2101 Wilson Blvd,38.8926396,-77.0845161,Clarendon/Courthouse,A,Office,"L&B Realty Advisors, LLP",Lincoln Property Company,,36.9483,14655.2546743996,56.0,6.48808133633025,,NEG,STABLE,,Nonprofit,1
+289,2107 Wilson Blvd,2107 Wilson Blvd,38.8930376,-77.0853704,Clarendon/Courthouse,A,Office,"L&B Realty Advisors, LLP",Lincoln Property Company,,38.7809,14655.2546743996,40.0,6.54232214848563,,NEG,STABLE,,Nonprofit,1
+290,2111 Wilson Blvd,2111 Wilson Blvd,38.8918809,-77.0854369,Clarendon/Courthouse,A,Office,"2111 Wilson Boulevard, Inc.",Lincoln Property Company,,41.3471,14655.2546743996,40.0,6.97523905081243,,NEG,STABLE,,Nonprofit,1
+291,2112 Pennsylvania Ave NW,2112 Pennsylvania Ave NW,38.9014899,-77.0480183,CBD,A,Office,Skanska USA,CBRE,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+292,2120 L St NW,2120 L St NW,38.903432,-77.0476392,CBD,B,Office,The Gelman Companies,Cushman & Wakefield,,45.0,14655.2546743996,64.0,10.2656270352427,,NEG,WATCH,,Nonprofit,1
+293,2121 K St NW,2121 K St NW,38.902816,-77.0471904,CBD,A,Office,"TF Cornerstone, Inc.",CBRE,,55.5394,14655.2546743996,64.0,12.6699281369147,,NEG,WATCH,,Nonprofit,1
+294,2175 K St NW,2175 K St NW,38.902737,-77.046775,CBD,A,Office,Delegation of the European Union to the U.S.,Lincoln Property Company,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+295,2200 Clarendon Blvd,2200 Clarendon Blvd,38.8904834,-77.0857198,Clarendon/Courthouse,A,Office,Fortress Investment Group,Cushman & Wakefield,,44.0,14655.2546743996,68.0,7.42278220808102,,NEG,STABLE,,Nonprofit,1
+296,2200 Pennsylvania Ave NW,2200 Pennsylvania Ave NW,38.9018241,-77.0493118,West End,A,Office,"BXP, Inc.",JLL,,58.0,14655.2546743996,56.0,13.6648637099337,,NEG,WATCH,,Nonprofit,1
+297,2200 Wilson Blvd,2200 Wilson Blvd,38.8908514,-77.0861736,Clarendon/Courthouse,B,Office,Guardian Realty Investors,KLNB,,33.0,14655.2546743996,44.0,5.76331743718444,,NEG,STABLE,,Nonprofit,1
+298,225 Reinekers Ln,225 Reinekers Ln,38.8051195,-77.0601844,Old Town Alexandria,B,Office,Altus Realty,Newmark,,40.6174,14655.2546743996,72.0,9.78311539896197,,NEG,WATCH,,Nonprofit,1
+299,2300 Clarendon Blvd,2300 Clarendon Blvd,38.890021,-77.0865052,Clarendon/Courthouse,A,Office,Fortress Investment Group,Cushman & Wakefield,,41.7099,14655.2546743996,52.0,7.03644326410997,,NEG,STABLE,,Nonprofit,1
+300,2300 N St NW,2300 N St NW,38.9070032,-77.0507714,West End,A,Office,"Oaktree Capital Management, L.P.",Lincoln Property Company,,48.1201,14655.2546743996,72.0,11.8008044829736,,NEG,WATCH,,Nonprofit,1
+301,2300 Wilson Blvd,2300 Wilson Blvd,38.8905061,-77.0870605,Clarendon/Courthouse,A,Office,Navy League of The United States,JLL,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+302,2311 Wilson Blvd,2311 Wilson Blvd,38.8912694,-77.0870978,Clarendon/Courthouse,A,Office,Carr Properties,Carr Properties,,52.0,14655.2546743996,80.0,9.13114350292633,,NEG,WATCH,,Nonprofit,1
+303,2440 M St NW,2440 M St NW,38.9051071,-77.0528169,West End,A,Office,Evergreen Medical Properties,"Gittleson Zuppas Commercial Realty, Inc.",,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+304,2445 M St NW,2445 M St NW,38.905491,-77.05269,West End,B,Office,Beacon Capital Partners,Cushman & Wakefield,,49.0,14655.2546743996,56.0,11.5444538239095,,NEG,WATCH,,Nonprofit,1
+305,25 Massachusetts Ave NW,25 Massachusetts Ave NW,38.8985079,-77.0103674,NoMa,A,Office,Norges Bank Investment Management,,,34.0389,14655.2546743996,44.0,7.82786383505703,,NEG,STABLE,,Nonprofit,1
+306,250 E St SW,250 E St SW,38.8829835,-77.0143831,Southwest,A,Office,Saban Real Estate LLC,Colliers,,49.5,14655.2546743996,72.0,12.1392063172602,,NEG,WATCH,,Nonprofit,1
+307,2500 Wilson Blvd,2500 Wilson Blvd,38.88994,-77.089022,Clarendon/Courthouse,A,Office,The Meridian Group,Avison Young,,41.467,14655.2546743996,56.0,6.99546613232945,,NEG,STABLE,,Nonprofit,1
+308,2600 Virginia Ave NW,2600 Virginia Ave NW,38.899628,-77.0554716,West End,A,Office,Friedman Capital,CBRE,,39.7064,14655.2546743996,64.0,9.35487145538124,,NEG,WATCH,,Nonprofit,1
+309,277 S Washington St,277 S Washington St,38.803206,-77.047967,Old Town Alexandria,A,Office,W.C. and A.N. Miller Development Company,Avison Young,,46.0,14655.2546743996,72.0,10.7488066076401,,NEG,WATCH,,Nonprofit,1
+310,2900 K St NW,2900 K St NW,38.9017968,-77.0586773,Georgetown,A,Office,LNR Partners,Lincoln Property Company,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+311,300 M St SE,300 M St SE,38.8768352,-77.0014316,Capitol Riverfront,A,Office,Garfield Investments,Avison Young,,46.173,14655.2546743996,56.0,10.8784095185995,,NEG,WATCH,,Nonprofit,1
+312,300 New Jersey Ave NW,300 New Jersey Ave NW,38.8945589,-77.0114407,Capitol Hill,A,Office,Jamestown LP,CBRE,,66.6962,14655.2546743996,56.0,15.7136979822497,,NEG,PRIORITY,,Nonprofit,1
+313,3000 K St NW,3000 K St NW,38.9018386,-77.0597746,Georgetown,A,Office,Global Holdings Management Group (US) Inc.,JLL,,54.5929,14655.2546743996,64.0,9.3620751790285,,NEG,WATCH,,Nonprofit,1
+314,3000 Wilson Blvd,3000 Wilson Blvd,38.8875633,-77.0944937,Clarendon/Courthouse,A,Office,"Saul Centers, Inc.",Colliers,,31.6449,14655.2546743996,44.0,5.55681005837987,,NEG,STABLE,,Nonprofit,1
+315,3030 Clarendon Blvd,3030 Clarendon Blvd,38.8868893,-77.0946607,Clarendon/Courthouse,A,Office,"Saul Centers, Inc.",Colliers,,46.233,14655.2546743996,68.0,7.79948840514113,,NEG,STABLE,,Nonprofit,1
+316,3050 K St NW,3050 K St NW,38.901724,-77.060529,Georgetown,A,Office,Global Holdings Management Group (US) Inc.,JLL,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+317,3100 Clarendon Blvd,3100 Clarendon Blvd,38.8864164,-77.0951444,Clarendon/Courthouse,A,Office,Piedmont Realty Trust,Avison Young,,45.7047,14655.2546743996,68.0,7.71036440876547,,NEG,STABLE,,Nonprofit,1
+318,3101 Wilson Blvd,3101 Wilson Blvd,38.8877965,-77.0954759,Clarendon/Courthouse,A,Office,"Comstock Holding Companies, Inc",JLL,,44.3113,14655.2546743996,60.0,7.47529839220319,,NEG,STABLE,,Nonprofit,1
+319,325 7th St NW,325 7th St NW,38.8945754,-77.0217057,East End,B,Office,MCB Real Estate,CBRE,,62.3141,14655.2546743996,80.0,13.5755701958464,,NEG,WATCH,,Nonprofit,1
+320,3299 K St NW,3299 K St NW,38.9034624,-77.0644177,Georgetown,B,Office,Bernstein Companies,Cushman & Wakefield,,52.2508,14655.2546743996,68.0,8.96043107738158,,NEG,STABLE,,Nonprofit,1
+321,333 John Carlyle St,333 John Carlyle St,38.8037105,-77.0622378,Old Town Alexandria,A,Office,Grosvenor,JLL,,37.0,14655.2546743996,60.0,8.91182768374123,,NEG,STABLE,,Nonprofit,1
+322,3401 Fairfax Dr,3401 Fairfax Dr,38.8847669,-77.1014677,Virginia Square,A,Office,"George Mason Univ, Costello College of Business",Newmark,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+323,355 E St SW,355 E St SW,38.8837239,-77.0163612,Southwest,A,Office,MEPT Fund,Newmark,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+324,370 L'Enfant Plz SW,370 L'Enfant Plz SW,38.8852211,-77.0247296,Southwest,A,Office,Meadow Partners,Colliers,,49.5926,14655.2546743996,56.0,11.6840710348493,,NEG,WATCH,,Nonprofit,1
+325,375 E St SW,375 E St SW,38.8840348,-77.0169465,Southwest,A,Office,MEPT Fund,Newmark,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+326,3811 N Fairfax Dr,3811 N Fairfax Dr,38.882854,-77.105798,Virginia Square,A,Office,LaSalle Investment Management,JLL,,29.99,14655.2546743996,42.0,4.06327365241591,,NEG,STABLE,,Nonprofit,1
+327,3865 Wilson Blvd,3865 Wilson Blvd,38.8805079,-77.1059614,Virginia Square,A,Office,In-Rel Properties,Cushman & Wakefield,,43.1566,14655.2546743996,64.0,6.08631760469822,,NEG,STABLE,,Nonprofit,1
+328,395 E St SW,395 E St SW,38.8835925,-77.0170843,Southwest,A,Office,MEPT Fund,Newmark,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+329,400 C St SW,400 C St SW,38.8854329,-77.0178985,Southwest,A,Office,Donohoe,Donohoe,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+330,400 Virginia Ave SW,400 Virginia Ave SW,38.8842346,-77.0181642,Southwest,A,Office,Piedmont Realty Trust,Cushman & Wakefield,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+331,401 9th St NW,401 9th St NW,38.895425,-77.023752,East End,A,Office,Gould Property Company,CBRE,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+332,409 3rd St SW,409 3rd St SW,38.8846,-77.015648,Southwest,A,Office,The Signatry,MILLER WALKER Retail Real Estate,,35.0,14655.2546743996,60.0,8.58327719402237,,NEG,STABLE,,Nonprofit,1
+333,425 3rd St SW,425 3rd St SW,38.883704,-77.0154525,Southwest,A,Office,Unizo Liquidation LLC,CBRE,,55.0,14655.2546743996,56.0,12.9580604145923,,NEG,WATCH,,Nonprofit,1
+334,425 I St NW,425 I St NW,38.9016346,-77.0169664,East End,A,Office,Saban Real Estate LLC,Colliers,,51.4648,14655.2546743996,64.0,10.7714522197266,,NEG,WATCH,,Nonprofit,1
+335,44 Canal Center Plz,44 Canal Center Plz,38.814289,-77.038828,Old Town Alexandria,B,Office,Opal Holdings,,,41.7717,14655.2546743996,56.0,9.66583603766967,,NEG,WATCH,,Nonprofit,1
+336,440 1st St NW,440 1st St NW,38.895535,-77.012359,Capitol Hill,A,Office,Office Properties Income Trust,JLL,,64.5,14655.2546743996,72.0,15.8177536861269,,NEG,PRIORITY,,Nonprofit,1
+337,455 Massachusetts Ave NW,455 Massachusetts Ave NW,38.901069,-77.0176287,East End,A,Office,"Saul Centers, Inc.",Avison Young,,64.2362,14655.2546743996,72.0,13.4444738748971,,NEG,WATCH,,Nonprofit,1
+338,470-490 L'Enfant Plz SW,470-490 L'Enfant Plz SW,38.8838742,-77.0235803,Southwest,A,Office,Blackstone Inc.,,,45.77,14655.2546743996,56.0,10.7834622759253,,NEG,WATCH,,Nonprofit,1
+339,499 S Capitol St SW,499 S Capitol St SW,38.883434,-77.009898,Southwest,B,Office,Boyd Watterson Global,Cushman & Wakefield,,59.8698,14655.2546743996,72.0,14.6822596843052,,NEG,PRIORITY,,Nonprofit,1
+340,50 F St NW,50 F St NW,38.8970294,-77.0102895,Capitol Hill,A,Office,Penzance,Cushman & Wakefield,,56.262,14655.2546743996,56.0,13.2553890008327,,NEG,WATCH,,Nonprofit,1
+341,500 E St SW,500 E St SW,38.8829954,-77.0189647,Southwest,A,Office,Boyd Watterson Global,Avison Young,,50.25,14655.2546743996,64.0,11.8389551969684,,NEG,WATCH,,Nonprofit,1
+342,500 L'Enfant Plz SW,500 L'Enfant Plz SW,38.8832349,-77.0236072,Southwest,A,Office,Deka Immobilien Investment GmbH,JLL,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+343,500 Montgomery St,500 Montgomery St,38.813691,-77.043421,Old Town Alexandria,A,Office,Asana Partners,"Stream Realty Partners, LP",,42.9152,14655.2546743996,64.0,9.93043823267426,,NEG,WATCH,,Nonprofit,1
+344,500 N Capitol St NW,500 N Capitol St NW,38.8966368,-77.009375,Capitol Hill,A,Office,"BXP, Inc.",Avison Young,,36.0,14655.2546743996,44.0,8.48163954409679,,NEG,STABLE,,Nonprofit,1
+345,501 School St SW,501 School St SW,38.88418,-77.019069,Southwest,B,Office,"Empire Leasing, Inc.","Summit Commercial Real Estate, LLC",,38.1178,14655.2546743996,72.0,9.34787552646588,,NEG,WATCH,,Nonprofit,1
+346,505 9th St NW,505 9th St NW,38.8965515,-77.0234285,East End,A,Office,"PGIM, Inc.",Cushman & Wakefield,,50.3319,14655.2546743996,80.0,10.9651626444147,,NEG,WATCH,,Nonprofit,1
+347,510-526 King St,510-526 King St,38.804647,-77.04525,Old Town Alexandria,B,Office,Melrose Solomon Enterprises,Cambridge Property Group LLC,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+348,525 9th St NW,525 9th St NW,38.8968137,-77.0233926,East End,A,Office,Douglas Development Corporation,CBRE,,59.0,14655.2546743996,80.0,12.8535699232587,,NEG,WATCH,,Nonprofit,1
+349,55 M St SE,55 M St SE,38.8761929,-77.0068976,Capitol Riverfront,A,Office,Spear Street Capital,JLL,,63.5621,14655.2546743996,56.0,14.9753005796065,,NEG,PRIORITY,,Nonprofit,1
+350,600 13th St NW,600 13th St NW,38.8979819,-77.0299343,East End,A,Office,Union Investment,CBRE,,70.6802,14655.2546743996,64.0,14.7931867447406,,NEG,PRIORITY,,Nonprofit,1
+351,600 14th St NW,600 14th St NW,38.8977641,-77.032423,East End,A,Office,CommonWealth Partners,CBRE,,68.0,14655.2546743996,80.0,14.814283979349,,NEG,PRIORITY,,Nonprofit,1
+352,600 5th St NW,600 5th St NW,38.8980034,-77.0194568,East End,A,Office,Rockefeller Group,CBRE,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+353,600 Maryland Ave SW,600 Maryland Ave SW,38.886127,-77.0201385,Southwest,A,Office,Smithsonian Institution,BXP,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+354,600 New Hampshire Ave NW,600 New Hampshire Ave NW,38.897724,-77.0551581,West End,A,Office,Elme Communities,"Stream Realty Partners, LP",,46.607,14655.2546743996,72.0,11.4297371480514,,NEG,WATCH,,Nonprofit,1
+355,601 13th St NW,601 13th St NW,38.8978696,-77.029016,East End,A,Office,Akridge,JLL,,68.0,14655.2546743996,64.0,14.2322276768084,,NEG,PRIORITY,,Nonprofit,1
+356,601 Massachusetts Ave NW,601 Massachusetts Ave NW,38.9021945,-77.0209557,East End,A,Office,"Mori Trust Co., Ltd.",Avison Young,,55.0,14655.2546743996,80.0,11.9821414538852,,NEG,WATCH,,Nonprofit,1
+357,601 New Jersey Ave NW,601 New Jersey Ave NW,38.897961,-77.011459,Capitol Hill,A,Office,Principal Real Estate Investors,Cushman & Wakefield,,74.0,14655.2546743996,72.0,18.1475003530759,,NEG,PRIORITY,,Nonprofit,1
+358,601 Pennsylvania Ave NW,601 Pennsylvania Ave NW,38.8934144,-77.0204835,East End,A,Office,"Saul Centers, Inc.",Colliers,,75.0,14655.2546743996,80.0,16.3356379476285,,NEG,PRIORITY,,Nonprofit,1
+359,601 Pennsylvania Ave NW,601 Pennsylvania Ave NW,38.893935,-77.0203125,East End,A,Office,Ruben Companies,Avison Young,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+360,607 14th St NW,607 14th St NW,38.8977156,-77.0315288,East End,A,Office,Equitable Financial Life Insurance Co.,Cushman & Wakefield,,68.2857,14655.2546743996,64.0,14.2920239627977,,NEG,PRIORITY,,Nonprofit,1
+361,609 H St NE,609 H St NE,38.899973,-76.997891,Capitol Hill,B,Office,Jair Lynch Real Estate Partners,"Stream Realty Partners, LP",,50.0,14655.2546743996,72.0,12.2618245628891,,NEG,WATCH,,Nonprofit,1
+362,616 H St NW,616 H St NW,38.899282,-77.020967,East End,A,Office,MRP Realty,Cushman & Wakefield,,51.1055,14655.2546743996,72.0,10.696251640252,,NEG,WATCH,,Nonprofit,1
+363,620 F St NW,620 F St NW,38.8970063,-77.0204366,East End,A,Office,Shakespeare Theatre Company,Savills,,49.5,14655.2546743996,80.0,10.7839273084967,,NEG,WATCH,,Nonprofit,1
+364,625 N Washington St,625 N Washington St,38.8109554,-77.0451043,Old Town Alexandria,A,Office,"Saul Centers, Inc.",Lincoln Property Company,,36.0,14655.2546743996,60.0,8.67096747607255,,NEG,STABLE,,Nonprofit,1
+365,650 Massachusetts Ave NW,650 Massachusetts Ave NW,38.9015111,-77.0214385,East End,A,Office,AustralianSuper Pty Ltd,,,56.5961,14655.2546743996,64.0,11.845420306168,,NEG,WATCH,,Nonprofit,1
+366,655 K St NW,655 K St NW,38.902784,-77.021307,East End,A,Office,Association of American Medical Colleges,Cushman & Wakefield,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+367,66 Canal Center Plz,66 Canal Center Plz,38.813741,-77.039106,Old Town Alexandria,A,Office,Opal Holdings,,,43.0,14655.2546743996,72.0,10.3569889297533,,NEG,WATCH,,Nonprofit,1
+368,660 N Capitol St NW,660 N Capitol St NW,38.898681,-77.009788,NoMa,B,Office,Eagle Cliff Real Estate Partners,JLL,,63.9659,14655.2546743996,72.0,15.3117222731603,,NEG,PRIORITY,,Nonprofit,1
+369,670 Maine Ave SW,670 Maine Ave SW,38.8777638,-77.0225411,Southwest,A,Office,PSP Investments,CBRE,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+370,675 N Washington St,675 N Washington St,38.811531,-77.044999,Old Town Alexandria,A,Office,"Saul Centers, Inc.",Lincoln Property Company,,36.0,14655.2546743996,60.0,8.67096747607252,,NEG,STABLE,,Nonprofit,1
+371,6862 Elm St,6862 Elm St,38.9370918,-77.1808882,McLean,B,Office,"Kenwood Management Company, LLC",Newmark,,42.5,14655.2546743996,72.0,10.4225508784557,,NEG,WATCH,,Nonprofit,1
+372,699 14th St NW,699 14th St NW,38.8981411,-77.0313427,East End,A,Office,Cara Real Estate Management Gmbh,Lincoln Property Company,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+373,700 13th St NW,700 13th St NW,38.898884,-77.0299355,East End,A,Office,700 THIRTEENTH STREET LLC,Newmark,,37.1781,14655.2546743996,68.0,7.78128211457575,,NEG,STABLE,,Nonprofit,1
+374,700 14th St NW,700 14th St NW,38.8986233,-77.0324111,East End,A,Office,"Paramount Group, Inc.",Colliers,,52.5303,14655.2546743996,80.0,10.9944586695743,,NEG,WATCH,,Nonprofit,1
+375,700 6th St NW,700 6th St NW,38.8990259,-77.0203804,East End,A,Office,Affinius Capital LLC,CBRE,,30.0,14655.2546743996,36.0,6.27892397506254,,NEG,OPPORTUNITY,,Nonprofit,1
+376,700 K St NW,700 K St NW,38.9018468,-77.0222024,East End,A,Office,The Meridian Group,JLL,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+377,700 Pennsylvania Ave SE,700 Pennsylvania Ave SE,38.8852315,-76.9958285,Capitol Hill,A,Office,"EastBanc, Inc.",JLL,,71.5396,14655.2546743996,72.0,17.5441204899851,,NEG,PRIORITY,,Nonprofit,1
+378,701 13th St NW,701 13th St NW,38.898672,-77.028748,East End,A,Office,Jamestown LP,CBRE,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+379,701 8th St NW,701 8th St NW,38.8988495,-77.0225899,East End,A,Office,Douglas Development Corporation,Avison Young,,45.0,14655.2546743996,80.0,9.53593085077299,,NEG,WATCH,,Nonprofit,1
+380,701 9th St NW,701 9th St NW,38.8989768,-77.023603,East End,A,Office,Exelon Corporation,,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+381,701 N Fairfax St,701 N Fairfax St,38.8121053,-77.0404319,Old Town Alexandria,A,Office,United Way,United Way,,39.0,14655.2546743996,72.0,9.39354809907856,,NEG,WATCH,,Nonprofit,1
+382,701 Pennsylvania Ave NW,701 Pennsylvania Ave NW,38.894498,-77.022309,East End,A,Office,PRP Real Estate Investment Management,JLL,,68.0,14655.2546743996,80.0,14.814283979349,,NEG,PRIORITY,,Nonprofit,1
+383,717 14th St NW,717 14th St NW,38.8988767,-77.0315354,East End,A,Office,"Washington Capitol Partners, LLC",Lincoln Property Company,,40.8115,14655.2546743996,60.0,8.5417435269422,,NEG,STABLE,,Nonprofit,1
+384,733 10th St NW,733 10th St NW,38.898704,-77.025636,East End,A,Office,Investcorp,Cushman & Wakefield,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+385,740 15th St NW,740 15th St NW,38.899675,-77.034062,East End,A,Office,National Community Reinvestment Coalition,"Stream Realty Partners, LP",,46.5653,14655.2546743996,80.0,10.1445820262292,,NEG,WATCH,,Nonprofit,1
+386,750 17th St NW,750 17th St NW,38.8998695,-77.0397822,CBD,A,Office,Manulife  Financial Corporation,JLL,,54.4429,14655.2546743996,72.0,12.9277219108248,,NEG,WATCH,,Nonprofit,1
+387,750 1st St NE,750 1st St NE,38.8998747,-77.0071884,NoMa,A,Office,American Psychological Association,Cushman & Wakefield,,51.0658,14655.2546743996,56.0,11.7435090155162,,NEG,WATCH,,Nonprofit,1
+388,750 9th St NW,750 9th St NW,38.899585,-77.024344,East End,A,Office,Rockwood Capital,CBRE,,62.1116,14655.2546743996,80.0,12.9998004789832,,NEG,WATCH,,Nonprofit,1
+389,77 K St NE,77 K St NE,38.9021632,-77.0065519,NoMa,A,Office,AustralianSuper Pty Ltd,JLL,,49.0,14655.2546743996,64.0,11.2684407521334,,NEG,WATCH,,Nonprofit,1
+390,777 6th St NW,777 6th St NW,38.8994507,-77.0196073,East End,A,Office,MEPT Fund,Lincoln Property Company,,56.0,14655.2546743996,64.0,11.7206580867834,,NEG,WATCH,,Nonprofit,1
+391,777 N Capitol St NE,777 N Capitol St NE,38.8998538,-77.0084851,NoMa,A,Office,MissionSquare Retirement,Cushman & Wakefield,,51.3157,14655.2546743996,56.0,11.8009780633521,,NEG,WATCH,,Nonprofit,1
+392,7777 Leesburg Pike,7777 Leesburg Pike,38.9073682,-77.2144544,Tysons Corner,C,Office,Bernstein Management Group Inc,Bernstein Management Group Inc,,25.6014,14655.2546743996,44.0,4.94308524147409,,NEG,STABLE,,Nonprofit,1
+393,7799 Leesburg Pike,7799 Leesburg Pike,38.9068702,-77.2160946,Tysons Corner,B,Office,"Empire Leasing, Inc.","Summit Commercial Real Estate, LLC",,28.0004,14655.2546743996,28.0,5.19386715379722,,NEG,OPPORTUNITY,,Nonprofit,1
+394,7799 Leesburg Pike,7799 Leesburg Pike,38.9063498,-77.2159549,Tysons Corner,A,Office,"Empire Leasing, Inc.","Summit Commercial Real Estate, LLC",,28.9413,14655.2546743996,28.0,5.36839714640471,,NEG,OPPORTUNITY,,Nonprofit,1
+395,7901 Jones Branch Dr,7901 Jones Branch Dr,38.9260422,-77.2190408,Tysons Corner,B,Office,Rockpoint,Cushman & Wakefield,,39.3964,14655.2546743996,60.0,7.30774088719641,,NEG,STABLE,,Nonprofit,1
+396,7918 Jones Branch Dr,7918 Jones Branch Dr,38.925961,-77.217079,Tysons Corner,B,Office,AED Asset Management,AED Asset Management,,36.1504,14655.2546743996,56.0,6.70563188942411,,NEG,STABLE,,Nonprofit,1
+397,7925 Jones Branch Dr,7925 Jones Branch Dr,38.9303501,-77.2180464,Tysons Corner,B,Office,Link Logistics Real Estate,Link Logistics Real Estate,,23.2629,14655.2546743996,34.0,4.49157068222393,,NEG,OPPORTUNITY,,Nonprofit,1
+398,7927 Jones Branch Dr,7927 Jones Branch Dr,38.9307767,-77.2197019,Tysons Corner,B,Office,Link Logistics Real Estate,Link Logistics Real Estate,,24.0,14655.2546743996,34.0,4.45182253436138,,NEG,OPPORTUNITY,,Nonprofit,1
+399,7930 Jones Branch Dr,7930 Jones Branch Dr,38.9287795,-77.2155893,Tysons Corner,A,Office,B. F. Saul Company,Cushman & Wakefield,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+400,7940 Jones Branch Dr,7940 Jones Branch Dr,38.9307169,-77.2158758,Tysons Corner,A,Office,PenFed Credit Union,CBRE,,,14655.2546743996,,,,NEG,STABLE,,Nonprofit,1
+401,799 9th St NW,799 9th St NW,38.8995408,-77.0235366,East End,A,Office,AustralianSuper Pty Ltd,,,54.1686,14655.2546743996,80.0,11.3373507078524,,NEG,WATCH,,Nonprofit,1
+402,80 F St NW,80 F St NW,38.8970449,-77.0107088,Capitol Hill,A,Office,American Federation of Government Employees,KLNB,,37.4866,14655.2546743996,72.0,9.19308225318397,,NEG,WATCH,,Nonprofit,1
+403,80 M St SE,80 M St SE,38.8770076,-77.0063746,Capitol Riverfront,A,Office,"Columbia Property Trust, Inc.",JLL,,59.7577,14655.2546743996,56.0,14.0789797606742,,NEG,PRIORITY,,Nonprofit,1
+404,800 17th St NW,800 17th St NW,38.9005812,-77.0398378,CBD,A,Office,Norges Bank Investment Management,JLL,,55.0,14655.2546743996,72.0,13.0600079183028,,NEG,WATCH,,Nonprofit,1
+405,800 9th St SW,800 9th St SW,38.880552,-77.024095,Southwest,B,Office,Jair Lynch Real Estate Partners,"Stream Realty Partners, LP",,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+406,800 Connecticut Ave NW,800 Connecticut Ave NW,38.9005689,-77.0384156,CBD,A,Office,Trust Estates 1 & 2,Donohoe,,40.6533,14655.2546743996,64.0,9.27403590115188,,NEG,WATCH,,Nonprofit,1
+407,800 K St NW,800 K St NW,38.9016444,-77.0225269,East End,A,Office,The Meridian Group,,,53.4535,14655.2546743996,72.0,11.1876820900335,,NEG,WATCH,,Nonprofit,1
+408,800 Maine Ave SW,800 Maine Ave SW,38.8797819,-77.0248101,Southwest,A,Office,Wharf 3A Office Floors 9-11 REIT Leaseholder LLC,CBRE,,50.3321,14655.2546743996,64.0,11.858298047151,,NEG,WATCH,,Nonprofit,1
+409,800 N Capitol St NW,800 N Capitol St NW,38.9005853,-77.0096749,NoMa,A,Office,Boyd Watterson Global,Transwestern Real Estate Services,,50.0,14655.2546743996,56.0,11.4984089307484,,NEG,WATCH,,Nonprofit,1
+410,8000 Towers Crescent Dr,8000 Towers Crescent Dr,38.9144844,-77.2195478,Tysons Corner,A,Office,Ambrish Gupta,Legat Commercial Real Estate LLC,,38.1258,14655.2546743996,52.0,7.07205398252317,,NEG,STABLE,,Nonprofit,1
+411,8000 Westpark Dr,8000 Westpark Dr,38.928618,-77.222327,Tysons Corner,B,Office,Link Logistics Real Estate,Link Logistics Real Estate,,26.8274,14655.2546743996,44.0,5.17979973779254,,NEG,STABLE,,Nonprofit,1
+412,801 17th St NW,801 17th St NW,38.9005933,-77.0390808,CBD,A,Office,Morgan Stanley & Co. LLC,"Stream Realty Partners, LP",,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+413,801 Eye St NW,801 Eye St NW,38.9010783,-77.0235119,East End,A,Office,The Meridian Group,JLL,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+414,801 Pennsylvania Ave NW,801 Pennsylvania Ave NW,38.8944257,-77.0234198,East End,A,Office,PRP Real Estate Investment Management,JLL,,68.0,14655.2546743996,72.0,14.2322276768084,,NEG,PRIORITY,,Nonprofit,1
+415,8020 Towers Crescent Dr,8020 Towers Crescent Dr,38.9151084,-77.2206066,Tysons Corner,A,Office,American Real Estate Partners (AREP),,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+416,8045 Kennett St,8045 Kennett St,38.989036,-77.028742,Silver Spring,B,Office,The Brick Companies,,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+417,8045 Leesburg Pike,8045 Leesburg Pike,38.912997,-77.22407,Tysons Corner,B,Office,Abu Dhabi Investment Authority,Cushman & Wakefield,,42.1836,14655.2546743996,60.0,7.82474587752029,,NEG,STABLE,,Nonprofit,1
+418,805 15th St NW,805 15th St NW,38.9004606,-77.0330469,East End,A,Office,SJG Properties,JLL,,51.5969,14655.2546743996,72.0,10.7991004149635,,NEG,WATCH,,Nonprofit,1
+419,8065 Leesburg Pike,8065 Leesburg Pike,38.912699,-77.2247156,Tysons Corner,A,Office,Abu Dhabi Investment Authority,Cushman & Wakefield,,41.2204,14655.2546743996,52.0,7.64607939980796,,NEG,STABLE,,Nonprofit,1
+420,8075 Leesburg Pike,8075 Leesburg Pike,38.9133533,-77.224703,Tysons Corner,A,Office,Abu Dhabi Investment Authority,Cushman & Wakefield,,43.0,14655.2546743996,68.0,7.97618204073081,,NEG,STABLE,,Nonprofit,1
+421,810 1st St NE,810 1st St NE,38.9006377,-77.0071845,NoMa,A,Office,Broadshore Capital Partners,Lincoln Property Company,,45.2454,14655.2546743996,56.0,10.4050022287057,,NEG,WATCH,,Nonprofit,1
+422,8100 Boone Blvd,8100 Boone Blvd,38.9137405,-77.2259767,Tysons Corner,A,Office,Gosnell Properties,"Stream Realty Partners, LP",,32.7063,14655.2546743996,56.0,6.31489015574242,,NEG,STABLE,,Nonprofit,1
+423,8133 Leesburg Pike,8133 Leesburg Pike,38.9152114,-77.2272693,Tysons Corner,B,Office,"Empire Leasing, Inc.","Summit Commercial Real Estate, LLC",,28.0,14655.2546743996,28.0,5.19379295675498,,NEG,OPPORTUNITY,,Nonprofit,1
+424,815 16th St NW,815 16th St NW,38.900698,-77.03595,CBD,B,Office,AFL-CIO,NAI Michael,,50.0,14655.2546743996,,,,NEG,STABLE,,Nonprofit,1
+425,815 Connecticut Ave NW,815 Connecticut Ave NW,38.9011142,-77.0379665,CBD,A,Office,"Ponte Gadea USA, Inc.",CBRE,,53.6209,14655.2546743996,72.0,12.2322702376454,,NEG,WATCH,,Nonprofit,1
+426,8150 Leesburg Pike,8150 Leesburg Pike,38.9165114,-77.2268846,Tysons Corner,A,Office,Atlantic Realty Companies,"Stream Realty Partners, LP",,29.4925,14655.2546743996,44.0,5.69437380315821,,NEG,STABLE,,Nonprofit,1
+427,8180 Greensboro Dr,8180 Greensboro Dr,38.9236589,-77.227656,Tysons Corner,A,Office,Velocis,Avison Young,,41.0,14655.2546743996,60.0,7.60519682953403,,NEG,STABLE,,Nonprofit,1
+428,820 1st St NE,820 1st St NE,38.9005234,-77.0078625,NoMa,A,Office,Unizo Liquidation LLC,CBRE,,43.2363,14655.2546743996,56.0,9.9429731610503,,NEG,WATCH,,Nonprofit,1
+429,8200 Greensboro Dr,8200 Greensboro Dr,38.9231873,-77.228521,Tysons Corner,B,Office,Velocis,Avison Young,,41.0955,14655.2546743996,68.0,7.62291137336872,,NEG,STABLE,,Nonprofit,1
+430,8201 Greensboro Dr,8201 Greensboro Dr,38.9223376,-77.2272942,Tysons Corner,A,Office,B. F. Saul Company,Cushman & Wakefield,,38.0908,14655.2546743996,52.0,7.06556174132719,,NEG,STABLE,,Nonprofit,1
+431,8219 Leesburg Pike,8219 Leesburg Pike,38.917128,-77.2302143,Tysons Corner,B,Office,Maneshkumar Gupta,"Divaris Real Estate, Inc.",,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+432,8229 Boone Blvd,8229 Boone Blvd,38.9154493,-77.2310308,Tysons Corner,B,Office,Link Logistics Real Estate,Link Logistics Real Estate,,25.856,14655.2546743996,44.0,4.99224308059536,,NEG,STABLE,,Nonprofit,1
+433,8245 Boone Blvd,8245 Boone Blvd,38.915335,-77.232447,Tysons Corner,B,Office,Link Logistics Real Estate,Link Logistics Real Estate,,27.0,14655.2546743996,44.0,5.21312512283705,,NEG,STABLE,,Nonprofit,1
+434,8251 Greensboro Dr,8251 Greensboro Dr,38.9219278,-77.2298433,Tysons Corner,A,Office,The Meridian Group,CBRE,,39.5,14655.2546743996,60.0,7.32695792113649,,NEG,STABLE,,Nonprofit,1
+435,8255 Greensboro Dr,8255 Greensboro Dr,38.9219299,-77.2303716,Tysons Corner,A,Office,The Meridian Group,CBRE,,39.0708,14655.2546743996,68.0,7.54373959442007,,NEG,STABLE,,Nonprofit,1
+436,8260 Greensboro Dr,8260 Greensboro Dr,38.9240855,-77.2292685,Tysons Corner,B,Office,Brandywine Realty Trust,Brandywine Realty Trust,,38.3439,14655.2546743996,68.0,7.4033906813908,,NEG,STABLE,,Nonprofit,1
+437,8270 Greensboro Dr,8270 Greensboro Dr,38.923627,-77.2306326,Tysons Corner,A,Office,Nuveen,CBRE,,46.986,14655.2546743996,80.0,9.07199618598598,,NEG,WATCH,,Nonprofit,1
+438,8280 Greensboro Dr,8280 Greensboro Dr,38.9246391,-77.2310415,Tysons Corner,A,Office,Kamal Singh,JLL,,35.0,14655.2546743996,56.0,6.49224119594369,,NEG,STABLE,,Nonprofit,1
+439,8300 Boone Blvd,8300 Boone Blvd,38.9171417,-77.231939,Tysons Corner,A,Office,Banyan Street Capital,Cushman & Wakefield,,30.0576,14655.2546743996,28.0,5.5754625420342,,NEG,OPPORTUNITY,,Nonprofit,1
+440,8300 Greensboro Dr,8300 Greensboro Dr,38.9253191,-77.2319355,Tysons Corner,A,Office,"Real Capital Solutions, Inc.",Transwestern Real Estate Services,,44.7446,14655.2546743996,52.0,8.29979244045781,,NEG,STABLE,,Nonprofit,1
+441,8330 Boone Blvd,8330 Boone Blvd,38.9172534,-77.2327449,Tysons Corner,A,Office,Banyan Street Capital,Cushman & Wakefield,,31.3273,14655.2546743996,36.0,5.81098250336251,,NEG,OPPORTUNITY,,Nonprofit,1
+442,840 1st St NE,840 1st St NE,38.9012599,-77.0067416,NoMa,A,Office,Office Properties Income Trust,JLL,,49.5,14655.2546743996,56.0,11.3834248414409,,NEG,WATCH,,Nonprofit,1
+443,8401 Colesville Rd,8401 Colesville Rd,38.9948937,-77.0309619,Silver Spring,A,Office,"Brookfield Asset Management, Inc.",,,34.0,14655.2546743996,44.0,3.14202286596495,,NEG,STABLE,,Nonprofit,1
+444,8401 Greensboro Dr,8401 Greensboro Dr,38.9277046,-77.2371398,Tysons Corner,B,Office,"CIM Group, LP",Cushman & Wakefield,,39.0,14655.2546743996,60.0,7.23421161833725,,NEG,STABLE,,Nonprofit,1
+445,8405 Greensboro Dr,8405 Greensboro Dr,38.9283002,-77.2372329,Tysons Corner,A,Office,"CIM Group, LP",Cushman & Wakefield,,39.0,14655.2546743996,60.0,7.23421161833729,,NEG,STABLE,,Nonprofit,1
+446,8444 Westpark Dr,8444 Westpark Dr,38.925415,-77.2362394,Tysons Corner,A,Office,Northwestern Mutual,Newmark,,40.0,14655.2546743996,68.0,7.72314833012896,,NEG,STABLE,,Nonprofit,1
+447,8455 Colesville Rd,8455 Colesville Rd,38.9957168,-77.0297582,Silver Spring,A,Office,Goodstone LLC,JLL,,31.8509,14655.2546743996,52.0,2.94341929710482,,NEG,STABLE,,Nonprofit,1
+448,8484 Georgia Ave,8484 Georgia Ave,38.994275,-77.027113,Silver Spring,A,Office,Acore Capital,Cushman & Wakefield,,34.6195,14655.2546743996,52.0,3.1992723708316,,NEG,STABLE,,Nonprofit,1
+449,8484 Westpark Dr,8484 Westpark Dr,38.9250026,-77.2368234,Tysons Corner,A,Office,Northwestern Mutual Life Insurance Company,Newmark,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+450,8500 Leesburg Pike,8500 Leesburg Pike,38.9263669,-77.2381133,Tysons Corner,A,Office,"Clemente Development Company, Inc.",,,25.0,14655.2546743996,36.0,4.6373151399598,,NEG,OPPORTUNITY,,Nonprofit,1
+451,8501-8517 Georgia Ave,8501-8517 Georgia Ave,38.9950771,-77.0266187,Silver Spring,A,Office,"Peterson Companies, LC",Transwestern Real Estate Services,,34.0,14655.2546743996,44.0,3.14202286596497,,NEG,STABLE,,Nonprofit,1
+452,8521 Leesburg Pike,8521 Leesburg Pike,38.926319,-77.240339,Tysons Corner,A,Office,Atlantic Realty Companies,,,28.4293,14655.2546743996,44.0,5.48909252054338,,NEG,STABLE,,Nonprofit,1
+453,8555 16th St,8555 16th St,38.9962666,-77.0356757,Silver Spring,B,Office,True Ground Housing Partners,"AMR Commercial, LLC",,27.0,14655.2546743996,52.0,2.59717952990316,,NEG,STABLE,,Nonprofit,1
+454,8601 Georgia Ave,8601 Georgia Ave,38.9966681,-77.0282695,Silver Spring,A,Office,Lee Development Group,Lee Development Group,,23.0,14655.2546743996,52.0,2.12548605638807,,NEG,STABLE,,Nonprofit,1
+455,8609 Westwood Center Dr,8609 Westwood Center Dr,38.9285198,-77.246648,Tysons Corner,A,Office,Bernstein Management Group Inc,Bernstein Management Group Inc,,25.0,14655.2546743996,28.0,4.63731513995978,,NEG,OPPORTUNITY,,Nonprofit,1
+456,8614 Westwood Center Dr,8614 Westwood Center Dr,38.9297849,-77.2468478,Tysons Corner,A,Office,MRP Realty,Cushman & Wakefield,,37.5,14655.2546743996,40.0,6.95597270993966,,NEG,STABLE,,Nonprofit,1
+457,8618 Westwood Center Dr,8618 Westwood Center Dr,38.929161,-77.249047,Tysons Corner,B,Office,Washington Property Company,Lincoln Property Company,,27.0,14655.2546743996,44.0,5.21312512283705,,NEG,STABLE,,Nonprofit,1
+458,8619 Westwood Center Dr,8619 Westwood Center Dr,38.927682,-77.248773,Tysons Corner,B,Office,Esri,Savills,,28.0,14655.2546743996,36.0,5.19379295675492,,NEG,OPPORTUNITY,,Nonprofit,1
+459,8737 Colesville Rd,8737 Colesville Rd,38.9988148,-77.025764,Silver Spring,A,Office,Atlantic Realty Companies,"AMR Commercial, LLC",,27.3448,14655.2546743996,52.0,2.52699961368349,,NEG,STABLE,,Nonprofit,1
+460,8757 Georgia Ave,8757 Georgia Ave,38.9986409,-77.029954,Silver Spring,A,Office,Washington Property Company,Transwestern Real Estate Services,,18.5,14655.2546743996,52.0,1.70963008883389,,NEG,STABLE,,Nonprofit,1
+461,888 16th St NW,888 16th St NW,38.900832,-77.037007,CBD,A,Office,Meadow Partners,CBRE,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+462,888 17th St NW,888 17th St NW,38.9012784,-77.0398033,CBD,B,Office,"Brawner Company, Inc.",JLL,,53.6632,14655.2546743996,72.0,12.7425784894812,,NEG,WATCH,,Nonprofit,1
+463,90 K St NE,90 K St NE,38.9029907,-77.0065765,NoMa,A,Office,Boyd Watterson Global,JLL,,48.0,14655.2546743996,56.0,11.0384725735184,,NEG,WATCH,,Nonprofit,1
+464,900 16th St NW,900 16th St NW,38.9017069,-77.0369764,CBD,A,Office,Oxford Properties Group,Avison Young,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+465,900 17th St NW,900 17th St NW,38.9016012,-77.0397635,CBD,A,Office,Generali Real Estate,Cushman & Wakefield,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+466,900 19th St NW,900 19th St NW,38.9016198,-77.0438651,CBD,A,Office,Tishman Speyer,Tishman Speyer,,72.0837,14655.2546743996,64.0,16.444097322674,,NEG,PRIORITY,,Nonprofit,1
+467,900 7th St NW,900 7th St NW,38.901133,-77.022367,East End,A,Office,International Brotherhood Of Electrical Workers,Akridge,,51.9511,14655.2546743996,72.0,10.8732335773623,,NEG,WATCH,,Nonprofit,1
+468,900 G St NW,900 G St NW,38.8981798,-77.0243512,East End,A,Office,Azora Private Solutions LLC,Lincoln Property Company,,49.0,14655.2546743996,80.0,10.674998749825,,NEG,WATCH,,Nonprofit,1
+469,901 15th St NW,901 15th St NW,38.9016267,-77.033169,East End,A,Office,Northwestern Mutual,Avison Young,,46.6084,14655.2546743996,64.0,9.7550200066435,,NEG,WATCH,,Nonprofit,1
+470,901 4th St NW,901 4th St NW,38.9015724,-77.0159174,East End,A,Office,District of Columbia bar,CBRE,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+471,901 K St NW,901 K St NW,38.9029933,-77.0254889,East End,A,Office,Shorenstein Properties,Avison Young,,54.0715,14655.2546743996,64.0,11.3170279239198,,NEG,WATCH,,Nonprofit,1
+472,901 N Washington St,901 N Washington St,38.814303,-77.044599,Old Town Alexandria,B,Office,Armed Forces Benefit Association,KLNB,,24.7641,14655.2546743996,36.0,5.96468626872801,,NEG,OPPORTUNITY,,Nonprofit,1
+473,905 16th St NW,905 16th St NW,38.9016082,-77.0360528,CBD,A,Office,Laborers' Health & Safety Fund of North America,"Union Realty Advisors, LLC",,58.0,14655.2546743996,72.0,13.7723719865738,,NEG,WATCH,,Nonprofit,1
+474,909 N Washington St,909 N Washington St,38.8146823,-77.0440761,Old Town Alexandria,A,Office,Armed Forces Benefit Association,KLNB,,27.8326,14655.2546743996,36.0,6.70376581595936,,NEG,OPPORTUNITY,,Nonprofit,1
+475,910 17th St NW,910 17th St NW,38.9018654,-77.0400647,CBD,B,Office,Self-Help Credit Union,,,38.6243,14655.2546743996,72.0,9.17152116070731,,NEG,WATCH,,Nonprofit,1
+476,919 18th St NW,919 18th St NW,38.9019003,-77.0412702,CBD,A,Office,Thomas Dungan,,,47.1694,14655.2546743996,64.0,10.7605215083595,,NEG,WATCH,,Nonprofit,1
+477,950 F St NW,950 F St NW,38.897054,-77.02525,East End,A,Office,Douglas Development Corporation,Cushman & Wakefield,,51.5214,14655.2546743996,64.0,10.7832984562929,,NEG,WATCH,,Nonprofit,1
+478,950 L'Enfant Plz SW,950 L'Enfant Plz SW,38.8832794,-77.0249655,Southwest,A,Office,Boyd Watterson Global,Avison Young,,49.0,14655.2546743996,56.0,11.5444538239095,,NEG,WATCH,,Nonprofit,1
+479,955 L'Enfant Plz SW,955 L'Enfant Plz SW,38.884564,-77.024859,Southwest,A,Office,Blackstone Inc.,Colliers,,47.3331,14655.2546743996,56.0,11.151730352908,,NEG,WATCH,,Nonprofit,1
+480,962 Wayne Ave,962 Wayne Ave,38.9943151,-77.0259965,Silver Spring,A,Office,"Brookfield Asset Management, Inc.",JLL,,27.0,14655.2546743996,52.0,2.49513580532513,,NEG,STABLE,,Nonprofit,1
+481,975 F St NW,975 F St NW,38.8976537,-77.0254117,East End,A,Office,Manova Partners Inc.,"Stream Realty Partners, LP",,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+482,99 Canal Center Plz,99 Canal Center Plz,38.815199,-77.038546,Old Town Alexandria,A,Office,Opal Holdings,Transwestern Real Estate Services,,43.0,14655.2546743996,72.0,10.3064461618008,,NEG,WATCH,,Nonprofit,1
+483,99 M St SE,99 M St SE,38.876232,-77.0063071,Capitol Riverfront,A,Office,State Street Global Advisors,Lincoln Property Company,,66.0469,14655.2546743996,64.0,15.560722189028,,NEG,PRIORITY,,Nonprofit,1
+484,999 E St NW,999 E St NW,38.8964745,-77.025437,East End,A,Office,Jordache Enterprises,JLL,,,14655.2546743996,,0.0,,NEG,STABLE,,Nonprofit,1
+485,999 N Capitol St NE,999 N Capitol St NE,38.90204,-77.0085009,NoMa,A,Office,Network Realty Partners,Cushman & Wakefield,,47.282,14655.2546743996,72.0,11.3180437157855,,NEG,WATCH,,Nonprofit,1

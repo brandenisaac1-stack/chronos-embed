@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "np-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0369, 38.9072]
+      },
+      "properties": {
+        "org_name": "National Assoc of Epilepsy Centers",
+        "ein": "411596217",
+        "category": "Health",
+        "revenue": 544854,
+        "employees": 12,
+        "address": "1150 Connecticut Ave NW",
+        "city": "Washington",
+        "state": "DC"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "np-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0434, 38.9097]
+      },
+      "properties": {
+        "org_name": "Urban Institute",
+        "ein": "521234567",
+        "category": "Research",
+        "revenue": 120000000,
+        "employees": 450,
+        "address": "500 L'Enfant Plaza SW",
+        "city": "Washington",
+        "state": "DC"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "np-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0283, 38.9145]
+      },
+      "properties": {
+        "org_name": "DC Housing Coalition",
+        "ein": "530987654",
+        "category": "Housing",
+        "revenue": 3200000,
+        "employees": 40,
+        "address": "733 15th St NW",
+        "city": "Washington",
+        "state": "DC"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "np-4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0502, 38.8895]
+      },
+      "properties": {
+        "org_name": "Education Forward",
+        "ein": "520000111",
+        "category": "Education",
+        "revenue": 8700000,
+        "employees": 75,
+        "address": "1100 15th St NW",
+        "city": "Washington",
+        "state": "DC"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "np-5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0122, 38.9021]
+      },
+      "properties": {
+        "org_name": "Community Health Access",
+        "ein": "521112223",
+        "category": "Health",
+        "revenue": 18500000,
+        "employees": 120,
+        "address": "600 Pennsylvania Ave NW",
+        "city": "Washington",
+        "state": "DC"
+      }
+    }
+  ]
+}
