@@ -11,7 +11,9 @@ const PORT = Number(process.env.PORT || 3000);
 
 const CFG = {
   SMARTSHEET_TOKEN:
-    TOKEN: process.env.SMARTSHEET_TOKEN || process.env.SMARTSHEET_API_KEY || '',
+    process.env.SMARTSHEET_TOKEN ||
+    process.env.SMARTSHEET_API_KEY ||
+    '',
 
   // ONE-SHEET CANONICAL SOURCE GOING FORWARD
   SMARTSHEET_SHEET_ID:
@@ -21,7 +23,9 @@ const CFG = {
   SMARTSHEET_TIMEOUT_MS: Number(process.env.SMARTSHEET_TIMEOUT_MS || 20000),
   CACHE_MS: Number(process.env.CACHE_MS || 30000),
 
-  MAPBOX_TOKEN: process.env.MAPBOX_ACCESS_TOKEN || '',
+  MAPBOX_TOKEN:
+    process.env.MAPBOX_ACCESS_TOKEN ||
+    '',
 
   MAPBOX_LIMIT: Number(process.env.MAPBOX_GEOCODE_LIMIT || 6),
   LOCAL_SEARCH_LIMIT: Number(process.env.LOCAL_SEARCH_LIMIT || 8),
@@ -29,7 +33,8 @@ const CFG = {
   NEARBY_RADIUS_KM: Number(process.env.NEARBY_RADIUS_KM || 2.5),
   RELATIVE_TRACT_COUNT: Number(process.env.RELATIVE_TRACT_COUNT || 3)
 };
-if (!safe(CFG.SMARTSHEET.TOKEN)) {
+
+if (!safe(CFG.SMARTSHEET_TOKEN)) {
   throw new Error('Missing SMARTSHEET_TOKEN environment variable.');
 }
 
@@ -1274,6 +1279,20 @@ async function serveStatic(req, res, pathname) {
   }
 
   try {
+    if (filePath.endsWith('.html')) {
+      let body = await fs.readFile(filePath, 'utf8');
+
+      const injectedTokenScript = `<script>window.__MAPBOX_ACCESS_TOKEN__ = ${JSON.stringify(CFG.MAPBOX_TOKEN || '')};</script>`;
+
+      body = body.replace(
+        '</head>',
+        `${injectedTokenScript}\n</head>`
+      );
+
+      text(res, 200, body, mimeTypeFor(filePath));
+      return;
+    }
+
     const body = await fs.readFile(filePath);
     text(res, 200, body, mimeTypeFor(filePath));
   } catch {
